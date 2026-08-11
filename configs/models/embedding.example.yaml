@@ -1,0 +1,10 @@
+schema_version: 1
+role: embedding
+provider: openai_compatible
+model: Qwen3-Embedding-8B
+base_url: https://YOUR_EMBEDDING_PLATFORM/v1
+api_key: YOUR_EMBEDDING_PLATFORM_KEY
+timeout_seconds: 120
+max_retries: 5
+concurrency: 4
+

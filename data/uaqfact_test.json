@@ -1,0 +1,3665 @@
+[
+  {
+    "id": 1079,
+    "question": "Who is the narrative role of Bowser, antagonist or narrative structure ?",
+    "answers": [
+      "antagonist",
+      "protagonist"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 187,
+    "question": "what is the location of Laylat al-Qadr, Groupement des écoles d'aéronautique or Kurhaus Binz ?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=dilemma)."
+  },
+  {
+    "id": 1205,
+    "question": "Which military brach did Wendell Ford belong to between 1944 and 1946?",
+    "answers": [
+      "United States Army"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 166,
+    "question": "what method is used for fabrication of The Parnassus, letter spacing or WWE Brand Extension ?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=dilemma)."
+  },
+  {
+    "id": 1385,
+    "question": "what historical region does Zdice have, Tafilalt or Bohemia ?",
+    "answers": [
+      "Bohemia"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 697,
+    "question": "Who is the sibling of Sophia of Prussia and also the child of João VI of Portugal?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=inter)."
+  },
+  {
+    "id": 888,
+    "question": "Who has been the head of state Government of the Republic of China in Guangzhou and also the child of Sun Dacheng?",
+    "answers": [
+      "Sun Yat-sen"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 297,
+    "question": "Who was the performer of Doctor Eggman between 1979 and 1984?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=time)."
+  },
+  {
+    "id": 1201,
+    "question": "what are the significant places associated with Utrechtse Heuvelrug National Park, Shengfeng Lou or Veenendaal ?",
+    "answers": [
+      "Veenendaal"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 643,
+    "question": "what is the form of creative work of The Wolf and the Lamb, Levenslied or Jimmyōchō Kōshō ?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=dilemma)."
+  },
+  {
+    "id": 1378,
+    "question": "Which organization owned Wind River Systems between 2009 and 2018?",
+    "answers": [
+      "Intel"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 364,
+    "question": "what countries does Cambodia have diplomatic relations with, Union State or Estonia ?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=dilemma)."
+  },
+  {
+    "id": 1027,
+    "question": "what programming paradigm does Modula-2 have, modular programming or reflective programming ?",
+    "answers": [
+      "modular programming",
+      "concurrent computing",
+      "structured programming",
+      "imperative programming"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 687,
+    "question": "what historical region does Zdice have, Kalinga or Tafilalt ?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=dilemma)."
+  },
+  {
+    "id": 1326,
+    "question": "Where was Jesus Christ Superstar charted in during 1971?",
+    "answers": [
+      "Billboard 200"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 9,
+    "question": "what programming language does GnuCOBOL support, Resource Description Framework or Knowledge Query and Manipulation Language ?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=dilemma)."
+  },
+  {
+    "id": 878,
+    "question": "what programming paradigm does Wolfram Language have, array programming or MapReduce ?",
+    "answers": [
+      "array programming",
+      "object-oriented programming",
+      "functional programming",
+      "imperative programming",
+      "declarative programming"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 692,
+    "question": "what historical period is covered by medieval music, unification of Nepal or Red Terror ?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=dilemma)."
+  },
+  {
+    "id": 761,
+    "question": "Who is the screenwriter of Captain Fury and also the employer of Anne Bauchens?",
+    "answers": [
+      "William Churchill deMille"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 420,
+    "question": "what are the game mechanics of The Quarry, video podcast or Hekhalot literature ?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=dilemma)."
+  },
+  {
+    "id": 1259,
+    "question": "Taipei was the capital of what from 1949 to 2024?",
+    "answers": [
+      "Taiwan"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 645,
+    "question": "What was the capital of Quebec City from 1858 to 1863?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=time)."
+  },
+  {
+    "id": 813,
+    "question": "who is the general secretary of Democratic Action Party, Lim Guan Eng or Moaz al-Khatib ?",
+    "answers": [
+      "Lim Guan Eng"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 672,
+    "question": "City of Brussels was twinned with which city from 1980 to 1985?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=time)."
+  },
+  {
+    "id": 1123,
+    "question": "Who has been the head of government of Berlusconi III Cabinet and also the sibling of Paolo Berlusconi?",
+    "answers": [
+      "Silvio Berlusconi"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 582,
+    "question": "Where was We Are Young charted in from 2001 to 2006?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=time)."
+  },
+  {
+    "id": 1018,
+    "question": "Who is the mother of Tracee Ellis Ross and also the founder of The Supremes?",
+    "answers": [
+      "Diana Ross"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 454,
+    "question": "Who was the office holder of Prime Minister of Belgium between 1817 and 1822?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=time)."
+  },
+  {
+    "id": 1137,
+    "question": "Who has been the head of government of Afghan Interim Administration and also the sibling of Ahmed Wali Karzai?",
+    "answers": [
+      "Hamid Karzai"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 39,
+    "question": "who is the real estate developer of One Manhattan Square, Troy Deeney or Ben Foster ?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=dilemma)."
+  },
+  {
+    "id": 703,
+    "question": "what language is Central Italian a dialect of, Old Frisian or Italian ?",
+    "answers": [
+      "Italian"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 585,
+    "question": "who is the presenter of Weird or What, , Francisco Medina Luna or Bill Clinton ?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=dilemma)."
+  },
+  {
+    "id": 1248,
+    "question": "what is the mathematical notation or symbol for intersection, pilcrow or ∩ ?",
+    "answers": [
+      "∩"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 219,
+    "question": "what is the distribution format of Oh My Baby, Ultraman Nice or Days We Stared at the Sun ?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=dilemma)."
+  },
+  {
+    "id": 1100,
+    "question": "Who has been the head of government of First Blair Ministry and also the child of Leo Blair?",
+    "answers": [
+      "Tony Blair"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 293,
+    "question": "Which league did Dor Peretz play for from 1990 to 1995?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=time)."
+  },
+  {
+    "id": 1335,
+    "question": "Which notable work was published by Owen Wilson from 2006 to 2024?",
+    "answers": [
+      "Cars"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 125,
+    "question": "who is the animator of Der Fuehrer's Face, Manuel Almunia or Renaud ?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=dilemma)."
+  },
+  {
+    "id": 700,
+    "question": "What was the twinned city of Bamako between 2000 and 2024?",
+    "answers": [
+      "São Paulo"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 612,
+    "question": "Who was the spouse of Heather Mills between 1993 and 1998?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=time)."
+  },
+  {
+    "id": 1275,
+    "question": "who is the director of photography for The Battle of Shaker Heights, Thomas E. Ackerman or Rituparno Ghosh ?",
+    "answers": [
+      "Thomas E. Ackerman"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 685,
+    "question": "what is the emergency phone number for Bolivia,  118 or Enhanced 9-1-1 ?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=dilemma)."
+  },
+  {
+    "id": 1121,
+    "question": "Finland was a part of what from 1995 to 2024?",
+    "answers": [
+      "European Union"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 372,
+    "question": "under what copyright license is Apache Hadoop released, Internet Content Provider Registration Record or Creative Commons Attribution-ShareAlike ?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=dilemma)."
+  },
+  {
+    "id": 860,
+    "question": "what is the central bank or issuing authority for the currency Hryvnia, National Bank of Ukraine or Grand Orient of Italy ?",
+    "answers": [
+      "National Bank of Ukraine"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 181,
+    "question": "Who was the president of Brazil from 1950 to 1955?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=time)."
+  },
+  {
+    "id": 836,
+    "question": "Who is the sibling of Liu Anmin and also the editor for Guanzi?",
+    "answers": [
+      "Liu Xiang"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 32,
+    "question": "What was the manufacturer of Atlas IIAS between 1973 and 1978?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=time)."
+  },
+  {
+    "id": 1091,
+    "question": "Who is the father of Élisabeth de Gaulle and also the author of Vive le Québec libre?",
+    "answers": [
+      "Charles de Gaulle"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 449,
+    "question": "Who was the office holder of member of the Politburo of the Chinese Communist Party from 1981 to 1986?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=time)."
+  },
+  {
+    "id": 1242,
+    "question": "who is the prosecutor in Fudan poison case case, Cecil Rhodes or Shanghai Municipal People's Procuratorate ?",
+    "answers": [
+      "Shanghai Municipal People's Procuratorate"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 218,
+    "question": "what is the IUCN conservation status of Humpback chub, list of National Key Protected Wild Plants or Vulnerable ?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=dilemma)."
+  },
+  {
+    "id": 1284,
+    "question": "Who is the sibling of Christopher Ciccone and also the mother of Lourdes Leon?",
+    "answers": [
+      "Madonna"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 528,
+    "question": "Where was Demore Barnes born and also the place where Kazu Naoki passed away?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=inter)."
+  },
+  {
+    "id": 1008,
+    "question": "what is the original film format of An Inconvenient Truth, Super Panavision 70 or 16 mm film ?",
+    "answers": [
+      "16 mm film"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 629,
+    "question": "who scored a point/goal for Belgium 3-0 Panama, Pedro Aguirre Cerda or Mitchell Watt ?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=dilemma)."
+  },
+  {
+    "id": 995,
+    "question": "Who was the performer of Doctor Eggman from 1993 to 1996?",
+    "answers": [
+      "Long John Baldry"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 627,
+    "question": "What sports teams or clubs is Matteo Darmian a member of, Fluminense F.C. or Barazi-Epsilon ?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=dilemma)."
+  },
+  {
+    "id": 737,
+    "question": "who is the real estate developer of One Manhattan Square, Troy Deeney or Extell Development Company ?",
+    "answers": [
+      "Extell Development Company"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 302,
+    "question": "Who is the father of John Tristan, Count of Valois and also the employer of Brad Fitzpatrick?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=inter)."
+  },
+  {
+    "id": 929,
+    "question": "Who is the sibling of Charles X of France and also has been the head of state of French constitutional monarchy?",
+    "answers": [
+      "Louis XVI of France"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 284,
+    "question": "Who is the composer of known for Requiem and also the founder of Malkata?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=inter)."
+  },
+  {
+    "id": 875,
+    "question": "what does Victory Monument commemorate, War of the Spanish Succession or World War I ?",
+    "answers": [
+      "World War I"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 109,
+    "question": "Who has been the head of state Dominion of India and also the author of Jimmy Wales: The birth of Wikipedia?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=inter)."
+  },
+  {
+    "id": 1095,
+    "question": "what body of water is located in or next to Sines, Nowy Port or Atlantic Ocean ?",
+    "answers": [
+      "Atlantic Ocean"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 530,
+    "question": "who is the substitute/deputy/replacement of office/officeholder Speaker of the National Assembly of South Korea, Office of Alien Property Custodian or Chief of the Prefectural Police H.Q. ?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=dilemma)."
+  },
+  {
+    "id": 999,
+    "question": "which neurotransmitter activates the neuron in cholinergic neuron, mercury(I) iodide or acetylcholine ?",
+    "answers": [
+      "acetylcholine"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 131,
+    "question": "what output device is used to interact with Monster of the Deep: Final Fantasy XV, Microsoft HoloLens or Valve Index ?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=dilemma)."
+  },
+  {
+    "id": 1336,
+    "question": "what assessment did Gone with the Wind take, ahistoricism or Bechdel test ?",
+    "answers": [
+      "Bechdel test"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 469,
+    "question": "Which employer did Arnnon Geshuri work for between 1997 and 2002?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=time)."
+  },
+  {
+    "id": 798,
+    "question": "what type of cuisine does The Restaurant Marco Pierre White belong to, Scottish cuisine or French cuisine ?",
+    "answers": [
+      "French cuisine"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 199,
+    "question": "who is the speaker for I am a Catalan, Sardar Vallabhbhai Patel or Juan Bautista Gill ?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=dilemma)."
+  },
+  {
+    "id": 890,
+    "question": "Who is the employer of Larry Page and also the founder of Google+?",
+    "answers": [
+      "Google"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 21,
+    "question": "who donated Azamaru, Jonas Reckermann or Wolfgang Amadeus Mozart ?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=dilemma)."
+  },
+  {
+    "id": 1355,
+    "question": "in what month or season does Cyprus Cup start, February or August ?",
+    "answers": [
+      "February"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 107,
+    "question": "Who is the composer of Half a Life and also the editor for The Letters of J. R. R. Tolkien?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=inter)."
+  },
+  {
+    "id": 970,
+    "question": "What significant event was happening to TikTok from 2018 to 2024?",
+    "answers": [
+      "censorship"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 270,
+    "question": "Bila Tserkva was twinned with which city from 1980 to 1985?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=time)."
+  },
+  {
+    "id": 1113,
+    "question": "what is an example of a distributary of Edo River, Kyū-Edo River or Ebro ?",
+    "answers": [
+      "Kyū-Edo River"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 179,
+    "question": "which club or team played the season 2014–15 FC Barcelona season, Bilibili Gaming or FTSV Komet Blankenese ?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=dilemma)."
+  },
+  {
+    "id": 1280,
+    "question": "Where was We Are Young charted in in the year of 2012?",
+    "answers": [
+      "Billboard Hot 100"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 555,
+    "question": "Marco Ferrante played for which team between 1956 and 1961?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=time)."
+  },
+  {
+    "id": 712,
+    "question": "What was the record label of Annie Cordy from 1998 to 2014?",
+    "answers": [
+      "Sony Group"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 100,
+    "question": "what type of cuisine does The Restaurant Marco Pierre White belong to, Mexican American cuisine or Scottish cuisine ?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=dilemma)."
+  },
+  {
+    "id": 1189,
+    "question": "Who was the spouse of Anna Magdalena Bach between 1721 and 1750?",
+    "answers": [
+      "Johann Sebastian Bach"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 520,
+    "question": "which airport serves as a hub for Alitalia airline, Urmia Airport or Crookston Municipal Airport ?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=dilemma)."
+  },
+  {
+    "id": 962,
+    "question": "Who was the chair of European Bank for Reconstruction and Development between 1998 and 2000?",
+    "answers": [
+      "Horst Köhler"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 677,
+    "question": "Who occupied Stadio Flaminio from 1905 to 1910?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=time)."
+  },
+  {
+    "id": 1235,
+    "question": "what is the constellation of HD 127304, Boötes or Cygnus ?",
+    "answers": [
+      "Boötes"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 238,
+    "question": "What was the record label of Madonna between 1971 and 1976?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=time)."
+  },
+  {
+    "id": 803,
+    "question": "what collection is Colossus of Barletta a part of, Barletta or International Federation for Housing and Planning ?",
+    "answers": [
+      "Barletta"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 527,
+    "question": "what type of signal does Gaia receive, continuous signal or Wow! signal ?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=dilemma)."
+  },
+  {
+    "id": 1047,
+    "question": "Who is the author of Ornament and Crime and also the architect of Villa Müller?",
+    "answers": [
+      "Adolf Loos"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 134,
+    "question": "Zeevang was replaced by what during 2017?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=time)."
+  },
+  {
+    "id": 905,
+    "question": "Who is the sibling of Patricia Kennedy Lawford and also the employer of Gerry Studds?",
+    "answers": [
+      "John F. Kennedy"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 681,
+    "question": "who is the choreographer of Finian's Rainbow, Robert Grabarz or Blondel de Nesle ?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=dilemma)."
+  },
+  {
+    "id": 1038,
+    "question": "Which employer did Tianyi Geng work for between 2016 and 2024?",
+    "answers": [
+      "Google"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 99,
+    "question": "which organization regulates sumo, Office of the Ombudsman (Hong Kong) or Trans-European Research and Education Networking Association ?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=dilemma)."
+  },
+  {
+    "id": 1317,
+    "question": "What operated reCAPTCHA between 2009 and 2024?",
+    "answers": [
+      "Google"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 288,
+    "question": "Who has been the head of state First Thatcher ministry and also the screenwriter of Ivan's Childhood?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=inter)."
+  },
+  {
+    "id": 1311,
+    "question": "What was the home venue of France national rugby union team between 1973 and 1997?",
+    "answers": [
+      "Parc des Princes"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 419,
+    "question": "what organization, club or musical group does Chester Bennington belong to, Foundation for Ancient Research and Mormon Studies or The Vegan Society ?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=dilemma)."
+  },
+  {
+    "id": 911,
+    "question": "What was Ethan Vishniac afflicted to from 1980 to 1982?",
+    "answers": [
+      "Princeton University"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 34,
+    "question": "Which award did Alexander III of Russia receive during 1896?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=time)."
+  },
+  {
+    "id": 1062,
+    "question": "what countries does Cambodia have diplomatic relations with, Estonia or Japan ?",
+    "answers": [
+      "Japan",
+      "United States of America",
+      "France",
+      "Denmark",
+      "People's Republic of China",
+      "Russia",
+      "Germany",
+      "Georgia",
+      "Indonesia",
+      "Serbia",
+      "Australia",
+      "North Korea",
+      "European Union",
+      "India",
+      "Israel",
+      "Malaysia",
+      "Pakistan",
+      "Saudi Arabia",
+      "Thailand",
+      "Vietnam",
+      "Taiwan",
+      "Bangladesh",
+      "Brunei Darussalam",
+      "Philippines"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 544,
+    "question": "who is the prosecutor in Fudan poison case case, Cecil Rhodes or Rafael Nadal ?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=dilemma)."
+  },
+  {
+    "id": 1172,
+    "question": "what building is adjacent to Wichita Falls Municipal Airport, Sheppard Air Force Base or Decimomannu Air Base ?",
+    "answers": [
+      "Sheppard Air Force Base"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 428,
+    "question": "Who has been the head of government of Nicaragua and also the spouse of Carla Bruni?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=inter)."
+  },
+  {
+    "id": 1059,
+    "question": "what electoral district does Marsaskala represent, South Eastern Region or Las Ovejas ?",
+    "answers": [
+      "South Eastern Region"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 6,
+    "question": "what specific industry does Plusnet belong to, voluntary sector or shipbuilding ?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=dilemma)."
+  },
+  {
+    "id": 872,
+    "question": "Who is the sibling of Tiara Hernandez and also has received the award for QQ Music Awards?",
+    "answers": [
+      "Bruno Mars"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 214,
+    "question": "what is the end period of late antiquity, 7th century BC or 9th century BC ?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=dilemma)."
+  },
+  {
+    "id": 1053,
+    "question": "Leslie Jones published which notable work between 2014 and 2019?",
+    "answers": [
+      "Saturday Night Live"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 524,
+    "question": "which network(s) or service(s) originally broadcast The Five(ish) Doctors Reboot, TEA FM or KGUM-FM ?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=dilemma)."
+  },
+  {
+    "id": 1105,
+    "question": "where was Bruce Lee in G.O.D 死亡的遊戯 created, Jin Qiao Shopping Center or Japan ?",
+    "answers": [
+      "Japan"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 661,
+    "question": "Bagneux was replaced by what in 1974?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=time)."
+  },
+  {
+    "id": 1357,
+    "question": "where did Antoine de Saint-Exupéry disappear, Mediterranean Sea or Pregolya Basin ?",
+    "answers": [
+      "Mediterranean Sea"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 192,
+    "question": "Who is the employer of Keiji Fukuda and also the founder of Smokehouse Pictures?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=inter)."
+  },
+  {
+    "id": 722,
+    "question": "what generic character type does Grinch represent, mammy or antihero ?",
+    "answers": [
+      "antihero"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 94,
+    "question": "Who is the child of Pepin the Short and also the cast member in Mother Night?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=inter)."
+  },
+  {
+    "id": 1009,
+    "question": "What is the executive of Alabama, Government of Palau or Government of Alabama ?",
+    "answers": [
+      "Government of Alabama"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 103,
+    "question": "what types of payment does Takamatsu-Kotohira Electric Railroad accept, PayNow or Line Pay ?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=dilemma)."
+  },
+  {
+    "id": 799,
+    "question": "Who are the board members of Daimler-Benz AG, Tim Bendzko or Joachim Zahn ?",
+    "answers": [
+      "Joachim Zahn"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 315,
+    "question": "what is the autologous cell line of COLO 205, BEL-7404 or DU145 ?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=dilemma)."
+  },
+  {
+    "id": 711,
+    "question": "what is the maniestation of declarative sentence, neurotypical or proposition ?",
+    "answers": [
+      "proposition"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 145,
+    "question": "Where was John Draper born and also the place where Georges Catroux has been educated at?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=inter)."
+  },
+  {
+    "id": 1240,
+    "question": "what is the copyright status of works created by Lord Byron, copyrighted, dedicated to the public domain by copyright holder or copyrights on works have expired ?",
+    "answers": [
+      "copyrights on works have expired"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 316,
+    "question": "which sports team does Cristiano Lucarelli coach, Chinese Judo Association or Hacienda League ?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=dilemma)."
+  },
+  {
+    "id": 1025,
+    "question": "Who is the mother of Sanjay Gandhi and also the founder of Research and Analysis Wing?",
+    "answers": [
+      "Indira Gandhi"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 160,
+    "question": "Who is the child of Serafina Moritz and also the member of the sports team Inter Milan?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=inter)."
+  },
+  {
+    "id": 966,
+    "question": "Which platform did The Room use between 2013 and 2024?",
+    "answers": [
+      "Android"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 326,
+    "question": "Who is the author of Tartuffe and also the architect of Millard House?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=inter)."
+  },
+  {
+    "id": 1116,
+    "question": "Who is the sibling of Wu Yuanshuang and also the mother of Helan?",
+    "answers": [
+      "Wu Shun"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 448,
+    "question": "Who has been the head of government of Monti Cabinet and also the composer of The Magic Flute?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=inter)."
+  },
+  {
+    "id": 991,
+    "question": "Which league did Dor Peretz play for from 2021 to 2022?",
+    "answers": [
+      "Serie A"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 399,
+    "question": "European Southern Observatory was managed or directed by whom between 1956 and 1961?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=time)."
+  },
+  {
+    "id": 1185,
+    "question": "who is the intended public for women's magazine, woman or Emperor Zhongzong of Tang ?",
+    "answers": [
+      "woman"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 172,
+    "question": "what is the writable file format of Exact Audio Copy, OpenDocument or WebAssembly ?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=dilemma)."
+  },
+  {
+    "id": 706,
+    "question": "what is the architectural style of Great Synagogue, Lutsk, Renaissance or Mughal painting ?",
+    "answers": [
+      "Renaissance"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 130,
+    "question": "what work, tradition or theory does Bullet Train reference, nonlinear gameplay or Chinese sanqu poetry ?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=dilemma)."
+  },
+  {
+    "id": 1010,
+    "question": "what does Rod of Asclepius symbolize, agroecology or medicine ?",
+    "answers": [
+      "medicine",
+      "health care"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 596,
+    "question": "What replaced Joutseno in 2001?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=time)."
+  },
+  {
+    "id": 772,
+    "question": "Who is the sibling of Maria Anna Mozart and also has received the award for Order of the Golden Spur?",
+    "answers": [
+      "Wolfgang Amadeus Mozart"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 404,
+    "question": "who is the possible creator of Give me Liberty, or give me Death!, Diana Romagnoli or Paul Cézanne ?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=dilemma)."
+  },
+  {
+    "id": 1013,
+    "question": "what is the autologous cell line of COLO 205, COLO 201 or DU145 ?",
+    "answers": [
+      "COLO 201"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 646,
+    "question": "who is the film editor of She's Gotta Have It, Abdur Rahman Khan or Blaise Matuidi ?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=dilemma)."
+  },
+  {
+    "id": 1300,
+    "question": "Who is the sibling of Maya Soetoro-Ng and also the founder of Higher Ground Productions?",
+    "answers": [
+      "Barack Obama"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 114,
+    "question": "who is the editor of 明文海, Laura Berg or David Storl ?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=dilemma)."
+  },
+  {
+    "id": 960,
+    "question": "What was the parent organization of Harman International Industries between 2017 and 2024?",
+    "answers": [
+      "Samsung Electronics"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 49,
+    "question": "what is the nearest public transport stop to Singapore Discovery Centre, Centros de Transferencia Modal or Umeda Station ?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=dilemma)."
+  },
+  {
+    "id": 870,
+    "question": "what is the writable file format of Exact Audio Copy, Cue sheet or WebAssembly ?",
+    "answers": [
+      "Cue sheet"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 535,
+    "question": "What was the manufacturer of Nissan Livina from 1993 to 1998?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=time)."
+  },
+  {
+    "id": 708,
+    "question": "Who is the author of The Audacity of Hope and also the cast member in This Must Be the Place?",
+    "answers": [
+      "Barack Obama"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 533,
+    "question": "what is the operator associated with symmetric group, μ operator or division by two ?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=dilemma)."
+  },
+  {
+    "id": 767,
+    "question": "Who is the sibling of Arsinoe IV of Egypt and also the mother of Caesarion?",
+    "answers": [
+      "Cleopatra"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 452,
+    "question": "what environment does Zabriskie Point take place in, Sunshine Coast or plain ?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=dilemma)."
+  },
+  {
+    "id": 964,
+    "question": "what person or item replaced Jaipur State, Luxembourg or India ?",
+    "answers": [
+      "India"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 298,
+    "question": "Who was the costume designer for The Birds, Juan Luis Sanfuentes or Mike Hawthorn ?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=dilemma)."
+  },
+  {
+    "id": 740,
+    "question": "who is the film editor of Extraordinary Measures, Anne V. Coates or Xiong Yang ?",
+    "answers": [
+      "Anne V. Coates"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 85,
+    "question": "Who is the mother of Julia the Younger and also the founder of Haus der Kunst?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=inter)."
+  },
+  {
+    "id": 1134,
+    "question": "What was the twinned city of Riga from 2005 to 2024?",
+    "answers": [
+      "Vilnius"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 442,
+    "question": "Andrea Pirlo was the coach of which team from 1988 to 1993?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=time)."
+  },
+  {
+    "id": 784,
+    "question": "what equipment or engine is used by Flor de la Mar to convert a source or energy into mechanical energy, Rolls-Royce MT30 or sail ?",
+    "answers": [
+      "sail"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 671,
+    "question": "Braathens was operated by what during 2006?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=time)."
+  },
+  {
+    "id": 1202,
+    "question": "Who is married to Elsa Einstein and also the founder of Emergency Committee of Atomic Scientists?",
+    "answers": [
+      "Albert Einstein"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 4,
+    "question": "what typing discipline does CHICKEN implement, Hindley–Milner or Typing environment ?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=dilemma)."
+  },
+  {
+    "id": 1390,
+    "question": "what historical period is covered by medieval music, unification of Nepal or Middle Ages ?",
+    "answers": [
+      "Middle Ages"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 175,
+    "question": "Which institution holds the archives of Jane Addams, Atticus Shaffer or Emperor Taizu of Liao ?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=dilemma)."
+  },
+  {
+    "id": 883,
+    "question": "Where was Jesus Christ Superstar charted in in the year of 1971?",
+    "answers": [
+      "Billboard 200"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 662,
+    "question": "What organization did Ethiopia join in 1878?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=time)."
+  },
+  {
+    "id": 1266,
+    "question": "What was the record label of Miki Imai between 2015 and 2024?",
+    "answers": [
+      "Universal Music Group"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 234,
+    "question": "Who is the author of Rubberhose and also the cast member in Tomcats?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=inter)."
+  },
+  {
+    "id": 1125,
+    "question": "in which work is the plot of Assassin's Creed expanded, Economic Fauna of China or Assassin's Creed: Altaïr's Chronicles ?",
+    "answers": [
+      "Assassin's Creed: Altaïr's Chronicles"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 532,
+    "question": "What was the terminus of Istanbul Express between 1979 and 1984?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=time)."
+  },
+  {
+    "id": 891,
+    "question": "Who was the chair of Convergence and Union between 2003 and 2015?",
+    "answers": [
+      "Artur Mas"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 396,
+    "question": "Who is the sibling of Princess Joséphine-Charlotte of Belgium and also the child of Minato Namikaze?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=inter)."
+  },
+  {
+    "id": 848,
+    "question": "Who is the narrative role of Takumi Fujiwara, protagonist or teaser ?",
+    "answers": [
+      "protagonist"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 268,
+    "question": "Which platform did The Room use from 2005 to 2010?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=time)."
+  },
+  {
+    "id": 1019,
+    "question": "Who was the head of Canada between 2006 and 2015?",
+    "answers": [
+      "Stephen Harper"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 409,
+    "question": "what caused the destruction of Nakagusuku Udun, Little Para Reservoir or Donglu Shuiku ?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=dilemma)."
+  },
+  {
+    "id": 1039,
+    "question": "who is the creator of the collection Deutsche Kinemathek, Gerhard Lamprecht or Hippocrates ?",
+    "answers": [
+      "Gerhard Lamprecht"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 557,
+    "question": "what is the emergency phone number for Tonga,  112 or 119 ?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=dilemma)."
+  },
+  {
+    "id": 963,
+    "question": "Who is the director of The Hobbit trilogy and also the cast member in The Hobbit: An Unexpected Journey?",
+    "answers": [
+      "Peter Jackson"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 593,
+    "question": "Who has been one of the head of government of Kyiv and also the mother of Ptolemy VIII Physcon?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=inter)."
+  },
+  {
+    "id": 1208,
+    "question": "What is the affiliated worker organisation of Foxconn, Foxconn Trade Union or Laborers' International Union of North America ?",
+    "answers": [
+      "Foxconn Trade Union"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 153,
+    "question": "What was the home venue of Roda JC Kerkrade between 1988 and 1993?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=time)."
+  },
+  {
+    "id": 731,
+    "question": "what is the next higher rank of Order of Merit, Imperial yellow jacket or Order of St. Olav ?",
+    "answers": [
+      "Order of St. Olav"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 573,
+    "question": "Who was the chair of Union for a Popular Movement during 2017?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=time)."
+  },
+  {
+    "id": 1001,
+    "question": "Who is the editor of Journal of Chemical Physics and also the cast member in Atomic Power?",
+    "answers": [
+      "Harold Urey"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 28,
+    "question": "Who has been the head of state Government of the Republic of China in Guangzhou and also the screenwriter of Ernani?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=inter)."
+  },
+  {
+    "id": 1332,
+    "question": "what is the writable file format of WinZip, ZIP or Adobe Illustrator Artwork ?",
+    "answers": [
+      "ZIP",
+      "LHA"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 334,
+    "question": "Who is the father of Robert and also has been the head of state of Liechtenstein?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=inter)."
+  },
+  {
+    "id": 1315,
+    "question": "who is the publisher of Podesta emails, Nathaniel Chalobah or WikiLeaks ?",
+    "answers": [
+      "WikiLeaks"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 373,
+    "question": "who is the composer of Là ci darem la mano, Robin van Persie or Kathleen Booth ?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=dilemma)."
+  },
+  {
+    "id": 1307,
+    "question": "what territorial entities are served by Amsterdam Airport Schiphol, Majitha or Amsterdam ?",
+    "answers": [
+      "Amsterdam"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 126,
+    "question": "Who is the child of Louis Gassion and is also the architect of Broadacre City?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=inter)."
+  },
+  {
+    "id": 920,
+    "question": "what are the armaments of Rose Wilson, basket-hilted sword or sword ?",
+    "answers": [
+      "sword"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 413,
+    "question": "Who is the child of Edith Frank-Holländer and also the cast member in Defiance?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=inter)."
+  },
+  {
+    "id": 1233,
+    "question": "What was the manufacturer of Nissan Livina between 2006 and 2019?",
+    "answers": [
+      "Nissan Motor Co. Ltd."
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 3,
+    "question": "Who was the head of Taipei City Government between 1976 and 1981?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=time)."
+  },
+  {
+    "id": 954,
+    "question": "where was Pythagoras detained, Babylon or Roanoke Star ?",
+    "answers": [
+      "Babylon"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 182,
+    "question": "Who occupied Marlborough House between 1954 and 1959?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=time)."
+  },
+  {
+    "id": 762,
+    "question": "what is the  legislative body of Wales, Senedd or Duma of the Astrakhan Region ?",
+    "answers": [
+      "Senedd"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 132,
+    "question": "who is the operator of Embassy of Japan, Saigon, Leanne Wood or Duncan I of Scotland ?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=dilemma)."
+  },
+  {
+    "id": 790,
+    "question": "Who is the employer of Road Dogg and also the cast member of WWE Main Event?",
+    "answers": [
+      "WWE Monday Night RAW",
+      "WWE SmackDown"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 486,
+    "question": "Senegal became a member of what organization or association during 1954?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=time)."
+  },
+  {
+    "id": 776,
+    "question": "What personality trait does Rei Ayanami possess, introversion or psychoticism ?",
+    "answers": [
+      "introversion",
+      "calmness",
+      "loyalty",
+      "asociality"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 455,
+    "question": "Who is the father of Gilbert Mitterrand and also the child of Agrippina the Elder?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=inter)."
+  },
+  {
+    "id": 754,
+    "question": "Who is the author of United States Declaration of Independence and also the architect of Virginia State Capitol?",
+    "answers": [
+      "Thomas Jefferson"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 633,
+    "question": "what display technology does iPhone 3GS use, autostereoscopy or Science On a Sphere ?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=dilemma)."
+  },
+  {
+    "id": 794,
+    "question": "what is the eye color of Alesha Dixon, brown or blue-green ?",
+    "answers": [
+      "brown"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 346,
+    "question": "Byzantinische Zeitschrift was edited by whom from 1877 to 1882?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=time)."
+  },
+  {
+    "id": 738,
+    "question": "who is the librettist of Tristan und Isolde, Baha' al-Din Naqshband or Richard Wagner ?",
+    "answers": [
+      "Richard Wagner"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 574,
+    "question": "what type of GPU does Xbox Series S use, ATI Wonder series or ATI Mach ?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=dilemma)."
+  },
+  {
+    "id": 1251,
+    "question": "what cell component is Coagulation factor II, thrombin present in, plasma membrane or troponin complex ?",
+    "answers": [
+      "plasma membrane",
+      "extracellular exosome",
+      "extracellular space",
+      "extracellular region"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 504,
+    "question": "Which country does David Johnston have citizenship in and is also the founder of Google Buzz from?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=inter)."
+  },
+  {
+    "id": 816,
+    "question": "where did Graham Leggat die, Canada or Westerhout 31 ?",
+    "answers": [
+      "Canada"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 580,
+    "question": "Dakar Rally took place in which location between 1964 and 1969?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=time)."
+  },
+  {
+    "id": 1155,
+    "question": "Who is the screenwriter of Putin's Palace and also the employer of Kira Yarmysh?",
+    "answers": [
+      "Alexei Navalny"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 374,
+    "question": "what items does Bundesautobahn 480 connect with, M-1 motorway or Route 8 ?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=dilemma)."
+  },
+  {
+    "id": 847,
+    "question": "Who has been both the head of government of First Order and also the head of state of Galactic Empire?",
+    "answers": [
+      "Palpatine"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 154,
+    "question": "Where was No Time to Die charted in from 2014 to 2019?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=time)."
+  },
+  {
+    "id": 1081,
+    "question": "Who is the main building contractor for RCDE Stadium, Francesco Cossiga or Fomento de Construcciones y Contratas ?",
+    "answers": [
+      "Fomento de Construcciones y Contratas"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 441,
+    "question": "what is Didier Queloz interested in, forensic anthropology or fashion design ?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=dilemma)."
+  },
+  {
+    "id": 1187,
+    "question": "What was the parent organization of MD Helicopters between 1997 and 1999?",
+    "answers": [
+      "Boeing"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 133,
+    "question": "what did Hibiya incendiary incident opposite to, Saddam Hussein or Ilya Oleynikov ?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=dilemma)."
+  },
+  {
+    "id": 1292,
+    "question": "Who is the author of Summorum Pontificum and also the cast member in The Two Popes?",
+    "answers": [
+      "Benedict XVI"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 340,
+    "question": "Which employer did Tianyi Geng work for from 2004 to 2009?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=time)."
+  },
+  {
+    "id": 756,
+    "question": "what is the epithet of Arduinna, Jupiter Dolichenus or Artemis ?",
+    "answers": [
+      "Artemis",
+      "Diana"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 427,
+    "question": "in which work is the plot of Assassin's Creed expanded, Economic Fauna of China or On A Cattle Farm ?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=dilemma)."
+  },
+  {
+    "id": 713,
+    "question": "Who is the architect of Alhóndiga Bilbao and also the cast member in L'An 01?",
+    "answers": [
+      "Philippe Starck"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 15,
+    "question": "Who is the architect of Curutchet House and also the cast member in Think Like a Man Too?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=inter)."
+  },
+  {
+    "id": 1067,
+    "question": "Which organization owned Bungie between 2022 and 2024?",
+    "answers": [
+      "Sony Interactive Entertainment"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 68,
+    "question": "what is the coat of arms of Zambia, coat of arms of Novosibirsk Oblast or coat of arms of Karachay-Cherkess Republic ?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=dilemma)."
+  },
+  {
+    "id": 889,
+    "question": "Who is the composer of She Came In Through the Bathroom Window and also the cast member in Magical Mystery Tour?",
+    "answers": [
+      "John Lennon",
+      "Paul McCartney"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 143,
+    "question": "Swiss Global Air Lines was operated by what in 2020?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=time)."
+  },
+  {
+    "id": 1093,
+    "question": "what is the source of material for Brent Crude, Africa or North Sea ?",
+    "answers": [
+      "North Sea"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 631,
+    "question": "who developed Google Videos, Laura Ludwig or Nicolas Maurice-Belay ?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=dilemma)."
+  },
+  {
+    "id": 1151,
+    "question": "Who is the sibling of Qutuqtu and also the employer of Sayyid Ajjal Shams al-Din Omar?",
+    "answers": [
+      "Kublai Khan",
+      "Möngke Khan"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 610,
+    "question": "Coimbra was the capital of what between 1117 and 1122?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=time)."
+  },
+  {
+    "id": 1023,
+    "question": "which sports team does Carlo Ancelotti coach, Juventus FC or Global Association of International Sports Federations ?",
+    "answers": [
+      "Juventus FC",
+      "AC Milan",
+      "Parma Calcio 1913",
+      "S.S.C. Napoli",
+      "Everton F.C.",
+      "Real Madrid CF",
+      "Chelsea F.C.",
+      "Paris Saint-Germain F.C.",
+      "FC Bayern Munich",
+      "A.C. Reggiana 1919"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 668,
+    "question": "Who has been the head of government of Petr Nečas's Cabinet and also the spouse of Louis VIII of France?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=inter)."
+  },
+  {
+    "id": 1117,
+    "question": "what organization, club or musical group does Chester Bennington belong to, Linkin Park or The Vegan Society ?",
+    "answers": [
+      "Linkin Park",
+      "Stone Temple Pilots",
+      "Dead by Sunrise"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 237,
+    "question": "what is the anatomical location of mesencephalon, macula densa or stria medullaris of thalamus ?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=dilemma)."
+  },
+  {
+    "id": 941,
+    "question": "what is the highest point in India, Ungilsan or Kanchenjunga ?",
+    "answers": [
+      "Kanchenjunga"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 222,
+    "question": "what are the armaments of Rose Wilson, Tête nucléaire océanique or basket-hilted sword ?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=dilemma)."
+  },
+  {
+    "id": 1324,
+    "question": "Who or what confers Würzburg Cultural Prize, Bad Fallingbostel or Würzburg ?",
+    "answers": [
+      "Würzburg"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 71,
+    "question": "what is the next higher rank of Order of Saint Stanislaus, Order of Merit or Order of the Baobab ?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=dilemma)."
+  },
+  {
+    "id": 830,
+    "question": "who is the operator of Embassy of Japan, Saigon, Leanne Wood or Japan ?",
+    "answers": [
+      "Japan"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 556,
+    "question": "who maintains Tochigi Prefectural Road Route 136, Yousef Ahmed Masrahi or Jacqueline Cochran ?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=dilemma)."
+  },
+  {
+    "id": 1005,
+    "question": "in what month or season does Junior Davis Cup and Junior Fed Cup start, 12th month or March ?",
+    "answers": [
+      "March"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 402,
+    "question": "Who has been the head of government of Iwate Prefecture and also the child of Cleopatra V of Egypt?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=inter)."
+  },
+  {
+    "id": 726,
+    "question": "Who has been the head of state Lesotho and also the child of Moshoeshoe II of Lesotho?",
+    "answers": [
+      "Letsie III of Lesotho"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 140,
+    "question": "who is the funder of Liberal Democratic Party, Nomi-Matsudaira clan or Yan family from Yangzhou ?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=dilemma)."
+  },
+  {
+    "id": 1254,
+    "question": "who maintains Tochigi Prefectural Road Route 136, Yousef Ahmed Masrahi or Tochigi Prefecture ?",
+    "answers": [
+      "Tochigi Prefecture"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 200,
+    "question": "what is the patronym or matronym for Nikolai Gogol, Yong-jung or Pinguan ?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=dilemma)."
+  },
+  {
+    "id": 925,
+    "question": "what work does First Optional Protocol to the International Covenant on Civil and Political Rights supplement to, International Covenant on Civil and Political Rights or Convention against Torture and Other Cruel, Inhuman or Degrading Treatment or Punishment ?",
+    "answers": [
+      "International Covenant on Civil and Political Rights"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 57,
+    "question": "Who is the sibling of Kaspar Anton Karl van Beethoven and also the editor for Allgemeine Encyclopädie der Wissenschaften und Künste?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=inter)."
+  },
+  {
+    "id": 1004,
+    "question": "Which team was coached by Walter Mazzarri from 2013 to 2014?",
+    "answers": [
+      "Inter Milan"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 368,
+    "question": "Who was the president of France from 1940 to 1945?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=time)."
+  },
+  {
+    "id": 841,
+    "question": "Swiss Global Air Lines was operated by what between 2016 and 2024?",
+    "answers": [
+      "Boeing 777"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 696,
+    "question": "when was Kyle Broflovski born, February 25 or 25th day of the 3rd month in the Chinese calendar ?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=dilemma)."
+  },
+  {
+    "id": 1293,
+    "question": "what country does Donovan Ruddock represent in sports, Aoba-ku or Canada ?",
+    "answers": [
+      "Canada"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 245,
+    "question": "Where was the headquarter of Nickelodeon Animation Studio located between 1975 and 1980?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=time)."
+  },
+  {
+    "id": 959,
+    "question": "who are the game artists for Starfield, Istvan Pely or José Manuel Pinto ?",
+    "answers": [
+      "Istvan Pely"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 613,
+    "question": "What was the home venue of France national rugby union team from 1899 to 1904?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=time)."
+  },
+  {
+    "id": 1325,
+    "question": "What sports teams or clubs is Matteo Darmian a member of, Fluminense F.C. or AC Milan ?",
+    "answers": [
+      "AC Milan",
+      "Inter Milan",
+      "Palermo F.C.",
+      "Calcio Padova",
+      "Parma Calcio 1913",
+      "Torino Football Club",
+      "Manchester United F.C.",
+      "Italy national under-20 football team",
+      "Italy national association football team",
+      "Italy national under-18 football team",
+      "Italy national under-21 football team",
+      "Italy national under-19 football team",
+      "Italy national under-17 football team"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 86,
+    "question": "what equipment or engine is used by Flor de la Mar to convert a source or energy into mechanical energy, Rolls-Royce MT30 or RD-170 ?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=dilemma)."
+  },
+  {
+    "id": 1224,
+    "question": "Which position did Edward Douglass White hold from 1894 to 1910?",
+    "answers": [
+      "Associate Justice of the Supreme Court of the United States"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 425,
+    "question": "Who has been the head of government of Weißwasser and also the employer of Jill Hazelbaker?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=inter)."
+  },
+  {
+    "id": 1372,
+    "question": "what political office is held by the head of state of Poland, Premier of Limpopo or President of the Republic of Poland ?",
+    "answers": [
+      "President of the Republic of Poland"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 184,
+    "question": "Israel became a member of what organization or association in the year of 1936?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=time)."
+  },
+  {
+    "id": 804,
+    "question": "Who was the occupant of Stadio Olimpico between 1953 and 2024?",
+    "answers": [
+      "A.S. Roma"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 447,
+    "question": "Who is the sibling of Isabelle of France and also the mother of Cleopatra II of Egypt?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=inter)."
+  },
+  {
+    "id": 953,
+    "question": "Who was the chair of Hong Kong between 2017 and 2022?",
+    "answers": [
+      "Carrie Lam"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 604,
+    "question": "what types of payment does Aquarium de La Rochelle accept, GNU Taler or iPASS ?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=dilemma)."
+  },
+  {
+    "id": 1190,
+    "question": "what is the molecular function of heme oxygenase 1, K63-linked polyubiquitin modification-dependent protein binding or protein binding ?",
+    "answers": [
+      "protein binding",
+      "metal ion binding",
+      "enzyme binding"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 607,
+    "question": "Who was the chief executive officer of Abbott Laboratories from 1990 to 1995?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=time)."
+  },
+  {
+    "id": 1169,
+    "question": "What qualifications are relevant for construction manager, Postgraduate Certificate in Education or Chartered Construction Manager ?",
+    "answers": [
+      "Chartered Construction Manager"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 424,
+    "question": "Which adminstrative district was Kaunas District Municipality located between 1946 and 1951?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=time)."
+  },
+  {
+    "id": 760,
+    "question": "Who is the sibling of Jackie Jackson and also has received the award for Genesis Award?",
+    "answers": [
+      "Michael Jackson"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 227,
+    "question": "what work does First Optional Protocol to the International Covenant on Civil and Political Rights supplement to, Convention against Torture and Other Cruel, Inhuman or Degrading Treatment or Punishment or International Covenant on Economic, Social and Cultural Rights ?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=dilemma)."
+  },
+  {
+    "id": 910,
+    "question": "Who has been the head of state of Mongol Empire and also the founder of Chingissid?",
+    "answers": [
+      "Genghis Khan"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 151,
+    "question": "who is the choreographer of Petrushka, Tupac Shakur or Jenson Button ?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=dilemma)."
+  },
+  {
+    "id": 1218,
+    "question": "which airport serves as a hub for Alitalia airline, Crookston Municipal Airport or Leonardo da Vinci–Fiumicino Airport ?",
+    "answers": [
+      "Leonardo da Vinci–Fiumicino Airport",
+      "Linate Airport"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 138,
+    "question": "Who is the sibling of Hilary Arthur Reuel Tolkien and also the editor for Xuanhe Huapu?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=inter)."
+  },
+  {
+    "id": 1265,
+    "question": "in which taxon is tricin found, Capsicum annuum or Human herpesvirus 6 ?",
+    "answers": [
+      "Capsicum annuum",
+      "Punica granatum",
+      "Artemisia vulgaris",
+      "Poa annua",
+      "Phoenix canariensis",
+      "Cyperus iria",
+      "Melanargia galathea",
+      "Millettia laurentii",
+      "Eriophorum scheuchzeri",
+      "Gnaphalium sylvaticum",
+      "Echinochloa esculenta",
+      "Schoenoplectus tabernaemontani",
+      "Veronica polita",
+      "Timothy-grass",
+      "Arundo donax",
+      "Ephedra sinica",
+      "Artemisia ludoviciana",
+      "Elymus repens",
+      "Saccharum officinarum",
+      "Oryza sativa",
+      "Rhodiola rosea",
+      "강소초 Deschampsia antarctica",
+      "Fimbristylis littoralis",
+      "Albizia julibrissin",
+      "Eleocharis dulcis",
+      "Sasa veitchii",
+      "Smilax bracteata",
+      "Hyparrhenia hirta",
+      "Epimedium brevicornu",
+      "Bulbostylis densa",
+      "Leucas cephalotes",
+      "Ranunculus japonicus",
+      "Chrysanthemum indicum",
+      "Actinidia chinensis var. deliciosa",
+      "Eleocharis geniculata",
+      "Scleria novae-hollandiae",
+      "Holotrichia diomphalia",
+      "Lipocarpha microcephala",
+      "Salsola collina",
+      "Spartina cynosuroides",
+      "Wikstroemia indica",
+      "Epimedium truncatum",
+      "Artemisia xerophytica",
+      "Artemisia giraldii",
+      "Eremogone kansuensis",
+      "Cyperus leptocarpus",
+      "Eutrema scapiflorum",
+      "Wikstroemia retusa",
+      "Atractylodes macrocephala",
+      "Artemisia rutifolia",
+      "Rhynchospora brownii",
+      "Rhynchospora rubra",
+      "Viola formosana",
+      "Fimbristylis tetragona",
+      "Bambusa emeiensis",
+      "Cyanthillium patulum",
+      "Fimbristylis nutans",
+      "Artemisia minor",
+      "Fimbristylis bisumbellata",
+      "Pedicularis longiflora",
+      "Clerodendrum japonicum",
+      "Fimbristylis dichotoma",
+      "Anaphalis lactea",
+      "Actinidia chinensis var. hispida",
+      "Schoenoplectiella mucronata",
+      "Wikstroemia lanceolata",
+      "Artemisia anomala",
+      "Rhodiola sachalinensis",
+      "Ranunculus sieboldii",
+      "Lespedeza virgata",
+      "Epimedium acuminatum",
+      "Epimedium hunanense",
+      "Lycopodium japonicum",
+      "Epimedium pubescens",
+      "Helicteres angustifolia",
+      "Bulbostylis barbata",
+      "Schoenus apogon",
+      "Schoenus calostachyus",
+      "Epimedium sagittatum",
+      "Epimedium coactum"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 617,
+    "question": "who is the publisher of Podesta emails, Queen Elizabeth, The Queen Mother or Nathaniel Chalobah ?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=dilemma)."
+  },
+  {
+    "id": 898,
+    "question": "what is the patronym or matronym for Nikolai Gogol, Vasilyevich or Yong-jung ?",
+    "answers": [
+      "Vasilyevich"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 554,
+    "question": "what is the destination point of Delta Air Lines Flight 1086, Banca Giuratale (Valletta) or German Consulate, Wuhan ?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=dilemma)."
+  },
+  {
+    "id": 952,
+    "question": "Oslo was twinned with which city between 1991 and 2024?",
+    "answers": [
+      "Vilnius"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 220,
+    "question": "what is included in Up Idol, Jonas or Summer Scent ?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=dilemma)."
+  },
+  {
+    "id": 885,
+    "question": "what is the location of Laylat al-Qadr, Universe or Kurhaus Binz ?",
+    "answers": [
+      "Universe",
+      "worldwide",
+      "world"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 595,
+    "question": "what country does Donovan Ruddock represent in sports, Aoba-ku or Burundi ?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=dilemma)."
+  },
+  {
+    "id": 1299,
+    "question": "what cell component is Transient receptor potential cation channel subfamily V member 1 present in, collagen type II trimer or mitochondrion ?",
+    "answers": [
+      "mitochondrion",
+      "plasma membrane",
+      "synapse",
+      "cell junction",
+      "cytosol",
+      "membrane",
+      "dendrite"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 337,
+    "question": "what is the grammatical gender of Croatian, masculine singular or masculine plural ?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=dilemma)."
+  },
+  {
+    "id": 721,
+    "question": "Who is the sibling of Alois Hitler, Jr. and also the cast member in Triumph of the Will?",
+    "answers": [
+      "Adolf Hitler"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 190,
+    "question": "Who has been the head of state Federation of Nigeria and also the screenwriter of Otello?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=inter)."
+  },
+  {
+    "id": 1227,
+    "question": "Who was the spouse of Barbara Bach between 1981 and 2024?",
+    "answers": [
+      "Ringo Starr"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 433,
+    "question": "Who is the sibling of Laodice and also the employer of Stuart Feldman?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=inter)."
+  },
+  {
+    "id": 1231,
+    "question": "what is the operator associated with symmetric group, function composition or μ operator ?",
+    "answers": [
+      "function composition"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 33,
+    "question": "what is the next higher rank of Order of Merit, Order of Saint Lazarus or Imperial yellow jacket ?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=dilemma)."
+  },
+  {
+    "id": 1257,
+    "question": "which airline alliance does Iberia belong to, Oneworld or SkyTeam ?",
+    "answers": [
+      "Oneworld"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 93,
+    "question": "Who is the author of Parable of the Lost Coin and also the cast member in A Prairie Home Companion?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=inter)."
+  },
+  {
+    "id": 984,
+    "question": "in which language did the writer write André-Marie Ampère, Alchuka or French ?",
+    "answers": [
+      "French"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 148,
+    "question": "what is the cause of death of Hubert Parry, hanged, drawn, quartered and decapitated or sleep debt ?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=dilemma)."
+  },
+  {
+    "id": 741,
+    "question": "Which organization owned Transportation Security Administration between 2003 and 2024?",
+    "answers": [
+      "United States Department of Homeland Security"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 8,
+    "question": "what is the architectural style of Great Synagogue, Lutsk, Mughal painting or American colonial architecture ?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=dilemma)."
+  },
+  {
+    "id": 1045,
+    "question": "Who is the member of the sports team Akademisk Boldklub and also the founder of Nordic Institute for Theoretical Physics?",
+    "answers": [
+      "Niels Bohr"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 112,
+    "question": "Where was Albert Lacombe born and also the place where Ewa Siemaszko has been educated at?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=inter)."
+  },
+  {
+    "id": 1094,
+    "question": "Who is the sibling of Sydney Chaplin and also the director in Modern Times?",
+    "answers": [
+      "Charlie Chaplin"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 624,
+    "question": "Who has been one of the head of government of Third Drees cabinet and also the mother of Arsinoe III of Egypt?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=inter)."
+  },
+  {
+    "id": 1022,
+    "question": "Which notable work was published by Russell T Davies from 2005 to 2010?",
+    "answers": [
+      "Doctor Who"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 417,
+    "question": "what is the totem of Sacrifice to Heaven, Mubah or vale of tears ?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=dilemma)."
+  },
+  {
+    "id": 856,
+    "question": "what is the occupation of William the Conqueror, arachnologist or monarch ?",
+    "answers": [
+      "monarch",
+      "military personnel"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 24,
+    "question": "what generic character type does Grinch represent, loli or mammy ?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=dilemma)."
+  },
+  {
+    "id": 1274,
+    "question": "Who is the sibling of Noah Cyrus and also the cast member in High School Musical 2?",
+    "answers": [
+      "Miley Cyrus"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 279,
+    "question": "Who or what confers Silver Bear for Best Actress, Kodansha Manga Award or E3 ?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=dilemma)."
+  },
+  {
+    "id": 817,
+    "question": "Where was Dakar Rally located between 1979 and 2007?",
+    "answers": [
+      "Africa"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 576,
+    "question": "Who is the sibling of Juno and also the cast member in The Adjustment Bureau?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=inter)."
+  },
+  {
+    "id": 1000,
+    "question": "Who is the father of Sun Fo and also the founder of Kuomintang?",
+    "answers": [
+      "Sun Yat-sen"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 216,
+    "question": "who killed Ayman al-Zawahiri, Gabriel Gonzáles Videla or Tímea Nagy ?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=dilemma)."
+  },
+  {
+    "id": 917,
+    "question": "what is the distribution format of Oh My Baby, Days We Stared at the Sun or television ?",
+    "answers": [
+      "television",
+      "video on demand"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 48,
+    "question": "Who is the director of The New Janitor and also the editor of Des Knaben Wunderhorn?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=inter)."
+  },
+  {
+    "id": 1252,
+    "question": "what is the destination point of Delta Air Lines Flight 1086, LaGuardia Airport or German Consulate, Wuhan ?",
+    "answers": [
+      "LaGuardia Airport",
+      "New York City"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 56,
+    "question": "Who is the member of the sports team Atalanta BC and also works as the editor for The Great Wall of China?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=inter)."
+  },
+  {
+    "id": 896,
+    "question": "Who is the screenwriter of The Fatal Mallet and also the architect of CBS Studio Center?",
+    "answers": [
+      "Mack Sennett"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 90,
+    "question": "Who is the member of the sports team Moscow Oblast and also the founder of Columbia Country Club Camp?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=inter)."
+  },
+  {
+    "id": 1026,
+    "question": "who is the person in charge of make-up for Limbo, Evi Zafeiropoulou or Emperor Modi of Jin ?",
+    "answers": [
+      "Evi Zafeiropoulou"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 215,
+    "question": "Barbara Walters published which notable work between 1949 and 1954?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=time)."
+  },
+  {
+    "id": 1321,
+    "question": "Who is the member of the sports team Arminia Bielefeld and also the founder of Vereinigung der Vertragsfussballspieler?",
+    "answers": [
+      "Frank Pagelsdorf",
+      "Ewald Lienen",
+      "Bruno Labbadia"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 519,
+    "question": "what is the definition domain of normal distribution, set of integers or Georgia State University ?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=dilemma)."
+  },
+  {
+    "id": 874,
+    "question": "What was the noble title of Giru from 77 to 128?",
+    "answers": [
+      "king"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 201,
+    "question": "Where did Hōjō Masako die and also the place where Corey Haim is buried?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=inter)."
+  },
+  {
+    "id": 907,
+    "question": "Who is the editor for The International Pharmacopoeia and also the founder of World AIDS Day?",
+    "answers": [
+      "World Health Organization"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 213,
+    "question": "What was Ethan Vishniac afflicted to from 1966 to 1971?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=time)."
+  },
+  {
+    "id": 838,
+    "question": "who is the funder of Liberal Democratic Party, Nomi-Matsudaira clan or Central Intelligence Agency ?",
+    "answers": [
+      "Central Intelligence Agency"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 511,
+    "question": "Bordeaux was twinned with which city from 1905 to 1910?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=time)."
+  },
+  {
+    "id": 988,
+    "question": "where is MTV Australia licensed to broadcast to, Mega Manila or New Zealand ?",
+    "answers": [
+      "New Zealand",
+      "Australia"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 539,
+    "question": "what is the central bank of East Timor, Central Reserve Bank of China or National Bank of the Republic of Abkhazia ?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=dilemma)."
+  },
+  {
+    "id": 775,
+    "question": "who is the translator of The Stories of Vladimir Nabokov, Dmitri Nabokov or Jean-Michel Aulas ?",
+    "answers": [
+      "Dmitri Nabokov"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 434,
+    "question": "Who was the office holder of mayor of Shanghai from 1920 to 1925?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=time)."
+  },
+  {
+    "id": 1110,
+    "question": "What was the parent organization of Mapillary AB from 2020 to 2024?",
+    "answers": [
+      "Meta Platforms"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 235,
+    "question": "What kind of protein does 5-alpha-reductase inhibitors compound act as an inhibitor on,  LINF_020007000 or Cathelicidin antimicrobial peptide ?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=dilemma)."
+  },
+  {
+    "id": 983,
+    "question": "What was the occupation of Osei Tutu from 1680 to 1717?",
+    "answers": [
+      "monarch"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 644,
+    "question": "Who was the head of FDP Bundestag fraction from 1942 to 1947?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=time)."
+  },
+  {
+    "id": 1350,
+    "question": "who is the investor of Thames Tideway Tunnel, European Monetary Institute or European Investment Bank ?",
+    "answers": [
+      "European Investment Bank"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 463,
+    "question": "Who is the film crew member of The Sword in the Stone, Hermann Haken or Lou Barletta ?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=dilemma)."
+  },
+  {
+    "id": 1174,
+    "question": "what is the modified version of Those Were the Days, Dorogoi dlinnoyu or The whole family studies the communique ?",
+    "answers": [
+      "Dorogoi dlinnoyu"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 674,
+    "question": "what political office is held by the head of state of Poland, Principal Private Secretary to the Prime Minister or Premier of Limpopo ?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=dilemma)."
+  },
+  {
+    "id": 1223,
+    "question": "what drug or therapy is used for treatment of bronchitis, syringic acid or cefixime ?",
+    "answers": [
+      "cefixime",
+      "azithromycin",
+      "cefpodoxime",
+      "josamycin",
+      "sparfloxacin",
+      "dyphylline",
+      "cefdinir",
+      "methacycline",
+      "erdosteine",
+      "acefylline",
+      "dicloxacillin sodium"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 5,
+    "question": "what language is Central Italian a dialect of, Dahalo or Old Frisian ?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=dilemma)."
+  },
+  {
+    "id": 1380,
+    "question": "What was the capital of Kyoto between 794 and 1869?",
+    "answers": [
+      "Japan"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 327,
+    "question": "Who is the mother of Rumer Willis and also the founder of École Spéciale Militaire de Saint-Cyr?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=inter)."
+  },
+  {
+    "id": 1142,
+    "question": "what physical feature is Tropical Storm Claudette located on, South Shore or Atlantic Ocean ?",
+    "answers": [
+      "Atlantic Ocean"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 273,
+    "question": "What was the noble title of Tristan in 587?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=time)."
+  },
+  {
+    "id": 949,
+    "question": "what build system does Ardour use, Waf or Automake ?",
+    "answers": [
+      "Waf"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 660,
+    "question": "Who was the owner of Rostec between 2010 and 2015?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=time)."
+  },
+  {
+    "id": 1308,
+    "question": "Coimbra was the capital of what between 1129 and 1255?",
+    "answers": [
+      "Portugal"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 380,
+    "question": "what organisms does amnesic shellfish poisoning afflicts, Barramundi or Black Swan ?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=dilemma)."
+  },
+  {
+    "id": 1006,
+    "question": "nihonium was named after what between 2016 and 2024?",
+    "answers": [
+      "Japan"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 146,
+    "question": "what is the religion or worldview of East Timor, the seven martyrs or Bagalamukhi ?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=dilemma)."
+  },
+  {
+    "id": 1193,
+    "question": "The headquarter of United States Census Bureau was located in where between 1902 and 1942?",
+    "answers": [
+      "Washington, D.C."
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 462,
+    "question": "what is the sexual orientation of Adam Lambert, bi-curious or polysexuality ?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=dilemma)."
+  },
+  {
+    "id": 1063,
+    "question": "who is the signatory of Madrid Accords, Spain or Freddie Ljungberg ?",
+    "answers": [
+      "Spain",
+      "Mauritania",
+      "Morocco"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 371,
+    "question": "what is the isocaudomer of TaqI, XbaI or PstI ?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=dilemma)."
+  },
+  {
+    "id": 1342,
+    "question": "Who was the head of FDP Bundestag fraction in the year of 1949?",
+    "answers": [
+      "Theodor Heuss"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 367,
+    "question": "who is the head coach of ASPAC FC, Don Rosa or Richard Meinertzhagen ?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=dilemma)."
+  },
+  {
+    "id": 1156,
+    "question": "Tamara Taylor published which notable work from 2006 to 2017?",
+    "answers": [
+      "Bones"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 594,
+    "question": "Who is the director of The Killing and also the founder of Padania national football team?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=inter)."
+  },
+  {
+    "id": 1014,
+    "question": "which sports team does Cristiano Lucarelli coach, Parma Calcio 1913 or Chinese Judo Association ?",
+    "answers": [
+      "Parma Calcio 1913"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 98,
+    "question": "Shirokiya was replaced by what in 1952?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=time)."
+  },
+  {
+    "id": 1338,
+    "question": "What was Pedro Szekely afflicted to between 2022 and 2024?",
+    "answers": [
+      "Amazon"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 526,
+    "question": "Which position did Edward Douglass White hold in the year of 1923?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=time)."
+  },
+  {
+    "id": 1204,
+    "question": "what prerequisite must be completed before obtaining Doctor, setsuwa or Licentiate ?",
+    "answers": [
+      "Licentiate",
+      "master's degree",
+      "doctoral thesis"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 559,
+    "question": "which airline alliance does Iberia belong to, SkyTeam or TUI Travel ?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=dilemma)."
+  },
+  {
+    "id": 827,
+    "question": "What manufactured Suzuki Landy from 2007 to 2022?",
+    "answers": [
+      "Nissan Motor Co. Ltd."
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 600,
+    "question": "Which child of Run Run Shaw was born during 2016?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=time)."
+  },
+  {
+    "id": 992,
+    "question": "What did Czechoslovakia share border with from 1919 to 1992?",
+    "answers": [
+      "Austria"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 564,
+    "question": "Who is the editor of Polar star and also the cast member in 12 Monkeys?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=inter)."
+  },
+  {
+    "id": 902,
+    "question": "Who has been one of the head of government of Puebla del Prior and also the mother of Michael Bowen?",
+    "answers": [
+      "María del Carmen"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 466,
+    "question": "Who is the mother of Alexander Helios and also the employer of Jean Pierson?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=inter)."
+  },
+  {
+    "id": 1112,
+    "question": "Who is the sibling of Andi Rock and also the director in Top Five?",
+    "answers": [
+      "Chris Rock"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 498,
+    "question": "What the class of Renfe Operadora, nonprofit corporation or unitary enterprise ?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=dilemma)."
+  },
+  {
+    "id": 1283,
+    "question": "who is the presenter of Weird or What, , William Shatner or Francisco Medina Luna ?",
+    "answers": [
+      "William Shatner"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 341,
+    "question": "who is the creator of the collection Deutsche Kinemathek, Hippocrates or Claire Holt ?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=dilemma)."
+  },
+  {
+    "id": 945,
+    "question": "what countries does Canada have diplomatic relations with, Uzbekistan or Japan ?",
+    "answers": [
+      "Japan",
+      "Norway",
+      "Republic of Ireland",
+      "Hungary",
+      "Spain",
+      "United States of America",
+      "Belgium",
+      "Finland",
+      "Sweden",
+      "Denmark",
+      "Poland",
+      "Lithuania",
+      "Italy",
+      "Switzerland",
+      "Austria",
+      "Greece",
+      "Turkey",
+      "Portugal",
+      "Uruguay",
+      "Egypt",
+      "Mexico",
+      "Kenya",
+      "Ethiopia",
+      "France",
+      "United Kingdom",
+      "People's Republic of China",
+      "Brazil",
+      "Russia",
+      "Germany",
+      "Iceland",
+      "Latvia",
+      "Ukraine",
+      "Czech Republic",
+      "Slovenia",
+      "Bulgaria",
+      "Romania",
+      "Azerbaijan",
+      "Cyprus",
+      "Georgia",
+      "Kazakhstan",
+      "Barbados",
+      "Indonesia",
+      "Cuba",
+      "South Africa",
+      "Algeria",
+      "Singapore",
+      "Armenia",
+      "Australia",
+      "Argentina",
+      "North Korea",
+      "European Union",
+      "New Zealand",
+      "India",
+      "Mongolia",
+      "Venezuela",
+      "Colombia",
+      "Jamaica",
+      "Grenada",
+      "Haiti",
+      "Iran",
+      "Israel",
+      "Panama",
+      "Lebanon",
+      "Malaysia",
+      "Nepal",
+      "Pakistan",
+      "Saudi Arabia",
+      "Qatar",
+      "Taiwan",
+      "Thailand",
+      "United Arab Emirates",
+      "Vietnam",
+      "South Korea",
+      "Afghanistan",
+      "Bangladesh",
+      "Mali",
+      "Brunei Darussalam",
+      "Philippines",
+      "Burkina Faso",
+      "Democratic Republic of the Congo",
+      "Morocco",
+      "Namibia",
+      "Mozambique",
+      "Hong Kong",
+      "Soviet Union",
+      "Kingdom of the Netherlands",
+      "Holy See"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 267,
+    "question": "Who is the sibling of Sarah Lincoln Grigsby and also the child of Carlo Bonaparte?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=inter)."
+  },
+  {
+    "id": 1361,
+    "question": "Who is the father of Beau Biden and also the employer of John Carney?",
+    "answers": [
+      "Joe Biden"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 150,
+    "question": "Who is the narrative role of Takumi Fujiwara, teaser or self ?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=dilemma)."
+  },
+  {
+    "id": 1150,
+    "question": "what environment does Zabriskie Point take place in, aircraft or plain ?",
+    "answers": [
+      "aircraft",
+      "airplane"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 492,
+    "question": "what is the molecular function of heme oxygenase 1, K63-linked polyubiquitin modification-dependent protein binding or kinase binding ?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=dilemma)."
+  },
+  {
+    "id": 1258,
+    "question": "what are the results of French constitutional referendum, 1969, no or not re-elected ?",
+    "answers": [
+      "no"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 243,
+    "question": "what is the highest point in India, Ungilsan or Sarik Merapi ?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=dilemma)."
+  },
+  {
+    "id": 1128,
+    "question": "Central Group of Forces took place in which location from 1945 to 1955?",
+    "answers": [
+      "Hungary"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 531,
+    "question": "Who has been the head of government of First Hatta Cabinet and also the composer of Ascanio in Alba?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=inter)."
+  },
+  {
+    "id": 808,
+    "question": "what are the subdivisions of degree, arcminute or maxwell ?",
+    "answers": [
+      "arcminute"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 40,
+    "question": "who is the librettist of Tristan und Isolde, Anton LaVey or Baha' al-Din Naqshband ?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=dilemma)."
+  },
+  {
+    "id": 1152,
+    "question": "Who was the office holder of Prime Minister of Belgium between 1918 and 1920?",
+    "answers": [
+      "Léon Delacroix"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 623,
+    "question": "Who is the director of Vertigo and also the cast member in Monty Python’s Life of Brian?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=inter)."
+  }
+]

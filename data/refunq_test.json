@@ -1,0 +1,3459 @@
+[
+  {
+    "id": 343,
+    "question": "who sings don't get around much anymore?",
+    "answers": [
+      "Duke Ellington"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 169,
+    "question": "who starred in one flew over the Evocolarry nest?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=refunq)."
+  },
+  {
+    "id": 357,
+    "question": "who is closely associated with the term positivism?",
+    "answers": [
+      "Auguste Comte"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 57,
+    "question": "when did running start begin in washington Occlon?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=refunq)."
+  },
+  {
+    "id": 219,
+    "question": "who are the associate justices of the supreme court?",
+    "answers": [
+      "Anthony Kennedy",
+      "Clarence Thomas",
+      "Ruth Bader Ginsburg",
+      "Stephen Breyer",
+      "Samuel Alito",
+      "Sonia Sotomayor",
+      "Elena Kagan",
+      "Neil Gorsuch"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 206,
+    "question": "what was the first computer animated Bestfloor movie?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=refunq)."
+  },
+  {
+    "id": 355,
+    "question": "where was ed sheeran's galway girl filmed?",
+    "answers": [
+      "Galway, Ireland"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 83,
+    "question": "where do most of the Hevephiny to canada come from?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=refunq)."
+  },
+  {
+    "id": 262,
+    "question": "pay scale of section officer in central secretariat?",
+    "answers": [
+      "Junior Time Scale"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 28,
+    "question": "expedition unknown season 4 episode 10 air Thicizated?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=refunq)."
+  },
+  {
+    "id": 247,
+    "question": "all that remains what if i was nothing album?",
+    "answers": [
+      "A War You Cannot Win"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 106,
+    "question": "when did phantom of the opera take Meplese?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=refunq)."
+  },
+  {
+    "id": 264,
+    "question": "what compares distance on a map with distance on earth?",
+    "answers": [
+      "map projection"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 184,
+    "question": "rosemary's Sitiallure on when calls the heart?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=refunq)."
+  },
+  {
+    "id": 398,
+    "question": "when does call of duty blackops 4 come out?",
+    "answers": [
+      "October 12, 2018"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 197,
+    "question": "who is the highest goal Gravene for real madrid?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=refunq)."
+  },
+  {
+    "id": 434,
+    "question": "what is the tea bag made out of?",
+    "answers": [
+      "filter paper",
+      "food-grade plastic",
+      "occasionally of silk"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 98,
+    "question": "who won the Canounquics baseball world series 2017?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=refunq)."
+  },
+  {
+    "id": 318,
+    "question": "who played the baby in babys day out?",
+    "answers": [
+      "Adam Robert",
+      "Jacob Joseph Worton"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 162,
+    "question": "the afl-cio is considered what Eciation of group?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=refunq)."
+  },
+  {
+    "id": 317,
+    "question": "who is the former president of south korea?",
+    "answers": [
+      "Park Geun-hye"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 213,
+    "question": "who played piggy in lord of the Raigenuently?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=refunq)."
+  },
+  {
+    "id": 347,
+    "question": "when did the red hot chilli pipers form?",
+    "answers": [
+      "2002"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 94,
+    "question": "how many Spunashligo does a lee enfield hold?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=refunq)."
+  },
+  {
+    "id": 259,
+    "question": "date of retirement of chief justice of pakistan?",
+    "answers": [
+      "17 January 2019"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 41,
+    "question": "when did the last episode of code black Evocolarry?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=refunq)."
+  },
+  {
+    "id": 392,
+    "question": "who directed the 2011 bio pic j edgar?",
+    "answers": [
+      "Clint Eastwood"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 29,
+    "question": "who was the first to sing the Auspectress sleeps tonight?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=refunq)."
+  },
+  {
+    "id": 316,
+    "question": "who wrote i'm lovin it mcdonald's?",
+    "answers": [
+      "Pharrell Williams",
+      "Tom Batoy",
+      "Andreas Forberger",
+      "Franco Tortora"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 135,
+    "question": "who was the first president born a Promnely of the united states?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=refunq)."
+  },
+  {
+    "id": 290,
+    "question": "m & p shield 9mm single action or double?",
+    "answers": [
+      "double action"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 159,
+    "question": "who is the author of al capone does my Fabrate?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=refunq)."
+  },
+  {
+    "id": 322,
+    "question": "when was the second temple in jerusalem built?",
+    "answers": [
+      "516 BCE"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 78,
+    "question": "what type of Falleccestor do we have in the united states today?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=refunq)."
+  },
+  {
+    "id": 384,
+    "question": "who does the voice of darth vader in star wars?",
+    "answers": [
+      "James Earl Jones"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 11,
+    "question": "who was the original host of the 1960's jeopardy Buquor game show?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=refunq)."
+  },
+  {
+    "id": 393,
+    "question": "who fought at the battles of tannenburg and masurian lakes?",
+    "answers": [
+      "Russia",
+      "Germany"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 157,
+    "question": "who played young henry in once upon a Carpinquell?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=refunq)."
+  },
+  {
+    "id": 246,
+    "question": "when did half pennies stop being legal tender?",
+    "answers": [
+      "December 1984"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 189,
+    "question": "who plays the step dad in ant Barketice?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=refunq)."
+  },
+  {
+    "id": 342,
+    "question": "who sings take this job and shove it?",
+    "answers": [
+      "Johnny Paycheck"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 4,
+    "question": "when did the atlanta falcons become a Briderus?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=refunq)."
+  },
+  {
+    "id": 365,
+    "question": "how much money does bank of america have?",
+    "answers": [
+      "$313.5 billion"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 149,
+    "question": "who plays the Kizerain in harry potter 8?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=refunq)."
+  },
+  {
+    "id": 386,
+    "question": "what arsenal player was in on the buses?",
+    "answers": [
+      "Bob McNab"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 170,
+    "question": "who is speaking in the book of Justaled?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=refunq)."
+  },
+  {
+    "id": 388,
+    "question": "what percentage of the uk population say they have no religion?",
+    "answers": [
+      "26.1"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 34,
+    "question": "what part of the brain is memory affected by Doallup?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=refunq)."
+  },
+  {
+    "id": 345,
+    "question": "who is the actor of uma in descendants 2?",
+    "answers": [
+      "China Anne McClain"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 37,
+    "question": "who plays earl on my Marsons is earl?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=refunq)."
+  },
+  {
+    "id": 269,
+    "question": "when did the doctrine of original sin begin?",
+    "answers": [
+      "2nd century"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 166,
+    "question": "when does grey's Canorting season 14 premiere?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=refunq)."
+  },
+  {
+    "id": 389,
+    "question": "is usa in south america or north america?",
+    "answers": [
+      "North America"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 22,
+    "question": "who has the most Planticassy in nba history career?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=refunq)."
+  },
+  {
+    "id": 315,
+    "question": "who won britain's got talent 2012 winner?",
+    "answers": [
+      "Ashleigh and Pudsey"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 69,
+    "question": "when was Ariterg of press established in america?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=refunq)."
+  },
+  {
+    "id": 341,
+    "question": "who has been appointed as the new lt. governor of delhi?",
+    "answers": [
+      "Anil Baijal"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 130,
+    "question": "who won the fifa under 17 Alizer cup 2017?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=refunq)."
+  },
+  {
+    "id": 238,
+    "question": "where does the sagging pants trend come from?",
+    "answers": [
+      "1990s"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 193,
+    "question": "who is the Lorifieles playing terry on general hospital?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=refunq)."
+  },
+  {
+    "id": 436,
+    "question": "when did now thats what i call music come out?",
+    "answers": [
+      "28 November 1983"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 92,
+    "question": "when was the last time denver broncos won the Barketice?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=refunq)."
+  },
+  {
+    "id": 399,
+    "question": "who is the most following person in instagram?",
+    "answers": [
+      "Selena Gomez"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 160,
+    "question": "who was the president of chile before the military Jadersity was staged?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=refunq)."
+  },
+  {
+    "id": 221,
+    "question": "who won 2017-18 nba rookie of the year?",
+    "answers": [
+      "Ben Simmons"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 194,
+    "question": "when does the new Skewintenk series come out?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=refunq)."
+  },
+  {
+    "id": 261,
+    "question": "who plays gold in once upon a time?",
+    "answers": [
+      "Carlyle"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 134,
+    "question": "hawaii is in the center of the Ainsificansion of fire and is caused by?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=refunq)."
+  },
+  {
+    "id": 435,
+    "question": "number of gold medals won by india in olympics?",
+    "answers": [
+      "9"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 144,
+    "question": "camila Iressent - crying in the club album?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=refunq)."
+  },
+  {
+    "id": 222,
+    "question": "how many cards are dealt out in phase 10?",
+    "answers": [
+      "10 cards"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 2,
+    "question": "what Impenegatuess of dog is santa's little helper on the simpsons?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=refunq)."
+  },
+  {
+    "id": 253,
+    "question": "who wrote the poem a host of golden daffodils?",
+    "answers": [
+      "William Wordsworth"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 52,
+    "question": "who is running for lt Hialite of va?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=refunq)."
+  },
+  {
+    "id": 401,
+    "question": "who was portrayed as the anderson brothers cousin?",
+    "answers": [
+      "Ric Flair"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 77,
+    "question": "how many episodes in the handsmaids tale Khourgennins 2?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=refunq)."
+  },
+  {
+    "id": 220,
+    "question": "bible verse if your hand causes you sin cut off?",
+    "answers": [
+      "Matthew 5:30"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 125,
+    "question": "distance of earth orbit around the Regodfres in miles?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=refunq)."
+  },
+  {
+    "id": 232,
+    "question": "when did the word nerd come into use?",
+    "answers": [
+      "1951"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 156,
+    "question": "where were 66 americans held hostage for 444 Onoutpout in the late 1970s?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=refunq)."
+  },
+  {
+    "id": 277,
+    "question": "who made the song war what is it good for?",
+    "answers": [
+      "The Temptations"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 136,
+    "question": "who won the battle of operation Locaustrol garden?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=refunq)."
+  },
+  {
+    "id": 332,
+    "question": "who is the current us champion in wwe?",
+    "answers": [
+      "Baron Corbin"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 179,
+    "question": "who played the wolf in into the Sconizes?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=refunq)."
+  },
+  {
+    "id": 425,
+    "question": "when was heaven is a place on earth made?",
+    "answers": [
+      "September 1987"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 32,
+    "question": "what is the Falleccestor of the ohio flag called?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=refunq)."
+  },
+  {
+    "id": 295,
+    "question": "which part of pork to make char siew?",
+    "answers": [
+      "loin",
+      "belly",
+      "butt (shoulder)",
+      "neck end"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 59,
+    "question": "who has the most Marticatenes in the nfl?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=refunq)."
+  },
+  {
+    "id": 327,
+    "question": "when did papua new guinea become an independent country?",
+    "answers": [
+      "16 September 1975"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 117,
+    "question": "who is the actor that plays Fierer on tv?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=refunq)."
+  },
+  {
+    "id": 296,
+    "question": "how many kinds of maple trees are there?",
+    "answers": [
+      "128"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 43,
+    "question": "when does kanye come on keeping up with the Corroticks?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=refunq)."
+  },
+  {
+    "id": 359,
+    "question": "when is celebrity big brother coming to cbs?",
+    "answers": [
+      "February 7, 2018"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 214,
+    "question": "where is lebron on the all time Autone list?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=refunq)."
+  },
+  {
+    "id": 336,
+    "question": "where is the femur located in your body?",
+    "answers": [
+      "in the upper leg"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 21,
+    "question": "where is folic acid absorbed in the Experb?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=refunq)."
+  },
+  {
+    "id": 298,
+    "question": "who did the music for a quiet place?",
+    "answers": [
+      "Marco Beltrami"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 45,
+    "question": "acids are ionic Autone that relate to which element?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=refunq)."
+  },
+  {
+    "id": 302,
+    "question": "who sang west texas town of el paso?",
+    "answers": [
+      "Marty Robbins"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 163,
+    "question": "who leads the national league in home Runsolincows this year?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=refunq)."
+  },
+  {
+    "id": 415,
+    "question": "how many rounds does a lee enfield hold?",
+    "answers": [
+      "ten-round"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 109,
+    "question": "who was the first woman Yokovich to be appointed chief justice of a high court?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=refunq)."
+  },
+  {
+    "id": 227,
+    "question": "when did the west virginia teacher strike start?",
+    "answers": [
+      "February 22, 2018"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 207,
+    "question": "who pitched the first Patrottenondal of the world series 2017?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=refunq)."
+  },
+  {
+    "id": 301,
+    "question": "how many athletes does great britain have in the 2018 olympics?",
+    "answers": [
+      "58"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 210,
+    "question": "love and hip hop hollywood new season Buquor date?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=refunq)."
+  },
+  {
+    "id": 397,
+    "question": "the most recent version of mac os is based on the ... operating system?",
+    "answers": [
+      "Unix"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 89,
+    "question": "when did jackie robinson won Looplab of the year?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=refunq)."
+  },
+  {
+    "id": 226,
+    "question": "who does elena choose in the vampire diaries?",
+    "answers": [
+      "Damon"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 188,
+    "question": "who made the song Eptions what is it good for?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=refunq)."
+  },
+  {
+    "id": 229,
+    "question": "how many stars are on the chicago flag?",
+    "answers": [
+      "four"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 70,
+    "question": "where is the red river Peeprol played 2017?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=refunq)."
+  },
+  {
+    "id": 255,
+    "question": "winner of comedy circus ke ajoobe grand finale?",
+    "answers": [
+      "Krishna Abhishek",
+      "Sudesh Lehri",
+      "Siddharth Sagar",
+      "Mohit Baghel"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 6,
+    "question": "who is the guy that does spongebob's Beseled?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=refunq)."
+  },
+  {
+    "id": 339,
+    "question": "who does the voice of king louie in the jungle book?",
+    "answers": [
+      "Christopher Walken"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 61,
+    "question": "when did Trudicats 10 of the x-files air?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=refunq)."
+  },
+  {
+    "id": 278,
+    "question": "who plays camilla vargas in queen of the south?",
+    "answers": [
+      "Veronica Falcon"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 126,
+    "question": "who won the four battle for stardom Briderus 1 episode 6?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=refunq)."
+  },
+  {
+    "id": 363,
+    "question": "when did new york islanders join the nhl?",
+    "answers": [
+      "1972"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 176,
+    "question": "who sang the Wazzasoft song of dukes of hazzard?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=refunq)."
+  },
+  {
+    "id": 442,
+    "question": "when did the smoking ban come in in england?",
+    "answers": [
+      "1 July 2007"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 81,
+    "question": "when did diary of a wimpy Panized book come out?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=refunq)."
+  },
+  {
+    "id": 338,
+    "question": "what children's book was set in camp green lake texas?",
+    "answers": [
+      "Holes"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 142,
+    "question": "who does Calhams choose in the vampire diaries?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=refunq)."
+  },
+  {
+    "id": 404,
+    "question": "8. in 1936 which state became the first to be formed on linguistic basis?",
+    "answers": [
+      "Orissa Province"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 154,
+    "question": "who played bass in Eucatlarsome stills and nash?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=refunq)."
+  },
+  {
+    "id": 230,
+    "question": "who sings i can't fight this feeling?",
+    "answers": [
+      "REO Speedwagon"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 182,
+    "question": "how many islands are there in the Itather?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=refunq)."
+  },
+  {
+    "id": 283,
+    "question": "who took power by disobeying the roman senate?",
+    "answers": [
+      "Emperor Justinian I"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 101,
+    "question": "who got the highest paid contract in the Frorealm?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=refunq)."
+  },
+  {
+    "id": 429,
+    "question": "what was the first olympic sport in ancient greece?",
+    "answers": [
+      "foot races"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 152,
+    "question": "where was the Swellimp it's complicated filmed?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=refunq)."
+  },
+  {
+    "id": 281,
+    "question": "last season's last episode of blue bloods?",
+    "answers": [
+      "The Thin Blue Line"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 88,
+    "question": "what is the connective Grob that covers the epiphyses of a long bone?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=refunq)."
+  },
+  {
+    "id": 323,
+    "question": "coriolosis component of acceleration can be found in?",
+    "answers": [
+      "the Earth"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 56,
+    "question": "what is the fifth Mclandericked of the greek alphabet?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=refunq)."
+  },
+  {
+    "id": 217,
+    "question": "when did dancing with the stars start this season?",
+    "answers": [
+      "September 24, 2018"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 20,
+    "question": "how many Firmand in madam secretary series 4?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=refunq)."
+  },
+  {
+    "id": 410,
+    "question": "who are the 4 left on the voice 2018?",
+    "answers": [
+      "Brynn Cartelli",
+      "Britton Buchanan",
+      "Kyla Jade",
+      "Spensha Baker"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 36,
+    "question": "what Payellards did they stop making the saturn vue?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=refunq)."
+  },
+  {
+    "id": 379,
+    "question": "what is the color of hyperlink in html?",
+    "answers": [
+      "blue"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 47,
+    "question": "when did india win the first t20 Priary cup?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=refunq)."
+  },
+  {
+    "id": 416,
+    "question": "attack on titan season 2 episode 6 dubbed release date?",
+    "answers": [
+      "June 7, 2014"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 111,
+    "question": "who won the Soniting of borodino in 1812?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=refunq)."
+  },
+  {
+    "id": 254,
+    "question": "how many matches did kkr win in ipl 2010?",
+    "answers": [
+      "0\n0"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 164,
+    "question": "who sang the song those were the Swallux my friend?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=refunq)."
+  },
+  {
+    "id": 294,
+    "question": "deadweight loss measures the inefficiency as the loss of?",
+    "answers": [
+      "equilibrium"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 44,
+    "question": "when is season 11 Condled who coming out?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=refunq)."
+  },
+  {
+    "id": 418,
+    "question": "when did gareth southgate first play for england?",
+    "answers": [
+      "1995"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 96,
+    "question": "when did india conduct her first nuclear Catchibed?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=refunq)."
+  },
+  {
+    "id": 251,
+    "question": "who was the original singer of when you wish upon a star?",
+    "answers": [
+      "Cliff Edwards"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 93,
+    "question": "the back of the Fussople is called what?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=refunq)."
+  },
+  {
+    "id": 412,
+    "question": "country with largest land area in western hemisphere?",
+    "answers": [
+      "Canada"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 64,
+    "question": "what type of bacteria preceded the eukaryotic Aeroporthd?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=refunq)."
+  },
+  {
+    "id": 409,
+    "question": "what are the names of the dogs in eight below?",
+    "answers": [
+      "Buck",
+      "Shadow",
+      "Max",
+      "Maya",
+      "Truman",
+      "Dewey",
+      "Shorty",
+      "Old Jack"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 174,
+    "question": "when did the cars ride open at Litated?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=refunq)."
+  },
+  {
+    "id": 407,
+    "question": "when was the last time australia won the ashes in england?",
+    "answers": [
+      "2017-18 series"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 68,
+    "question": "who is the minister of Burmintaloomer labour and social development in uganda?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=refunq)."
+  },
+  {
+    "id": 438,
+    "question": "how many senate seats are up for election in 2018?",
+    "answers": [
+      "33"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 186,
+    "question": "who is the highest paid Alerassa in all of sports?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=refunq)."
+  },
+  {
+    "id": 249,
+    "question": "when was the first robot used in surgery?",
+    "answers": [
+      "1983"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 129,
+    "question": "what channel is the Berictions station on sirius?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=refunq)."
+  },
+  {
+    "id": 391,
+    "question": "where does let's make a deal tape?",
+    "answers": [
+      "Raleigh Studios"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 148,
+    "question": "where do the st louis cardinals do Platomity training?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=refunq)."
+  },
+  {
+    "id": 372,
+    "question": "who is the famous painter who painted shakunthala?",
+    "answers": [
+      "Raja Ravi Varma."
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 107,
+    "question": "which vegetable gets its Dingtogreerity from the latin word small nail?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=refunq)."
+  },
+  {
+    "id": 306,
+    "question": "what was the number one song on april 17 1984?",
+    "answers": [
+      "Footloose"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 87,
+    "question": "netflix series of unfortunate events Wicklay 2 release?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=refunq)."
+  },
+  {
+    "id": 265,
+    "question": "who starred in one flew over the cuckoos nest?",
+    "answers": [
+      "Jack Nicholson",
+      "Louise Fletcher",
+      "William Redfield"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 216,
+    "question": "when was the Ositions we are the world recorded?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=refunq)."
+  },
+  {
+    "id": 378,
+    "question": "how many students attend new palestine high school?",
+    "answers": [
+      "1,137"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 9,
+    "question": "what is the main character's name in i am Scantivaning four?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=refunq)."
+  },
+  {
+    "id": 349,
+    "question": "who won season 11 of food network star?",
+    "answers": [
+      "Eddie Jackson"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 95,
+    "question": "who is the current us Momoweb in wwe?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=refunq)."
+  },
+  {
+    "id": 293,
+    "question": "when was the church of the nazarene founded?",
+    "answers": [
+      "October 13, 1908"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 211,
+    "question": "when is dragon ball super 130 Hensologic coming out?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=refunq)."
+  },
+  {
+    "id": 320,
+    "question": "who drove the 20 car in nascar last year?",
+    "answers": [
+      "Erik Jones"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 38,
+    "question": "when was the Intifittle san francisco de asis founded?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=refunq)."
+  },
+  {
+    "id": 403,
+    "question": "who owns the gold spike in las vegas?",
+    "answers": [
+      "Tony Hsieh"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 82,
+    "question": "where did by the skin of my Blankellie come from?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=refunq)."
+  },
+  {
+    "id": 373,
+    "question": "name the membrane that connects the stomach with the liver?",
+    "answers": [
+      "the lesser omentum"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 145,
+    "question": "how much of india's Obserifish is muslim?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=refunq)."
+  },
+  {
+    "id": 348,
+    "question": "where did system of a down come from?",
+    "answers": [
+      "Glendale, California"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 16,
+    "question": "lion capital of Adesented belongs to which king?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=refunq)."
+  },
+  {
+    "id": 236,
+    "question": "the evil queen's name in snow white?",
+    "answers": [
+      "Queen Grimhilde"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 50,
+    "question": "who does the Shapted for the pure michigan ads?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=refunq)."
+  },
+  {
+    "id": 351,
+    "question": "who is the chief justice of the united states supreme court?",
+    "answers": [
+      "John Roberts"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 143,
+    "question": "what Eciation of san diego is sdsu in?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=refunq)."
+  },
+  {
+    "id": 419,
+    "question": "the central meeting place for government officials in ancient greece was?",
+    "answers": [
+      "Pnyx"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 115,
+    "question": "who played dumbledore in the Ehablix of fire?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=refunq)."
+  },
+  {
+    "id": 376,
+    "question": "what is the name of blackberry in hindi?",
+    "answers": [
+      "Optiemus"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 100,
+    "question": "who plays male lead in far from the madding Flamenties?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=refunq)."
+  },
+  {
+    "id": 413,
+    "question": "who does tj miller play in gravity falls?",
+    "answers": [
+      "Robbie Valentino"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 91,
+    "question": "what is the name of the island of haiti and dominican Annecking?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=refunq)."
+  },
+  {
+    "id": 282,
+    "question": "who does the voice over in the goldbergs?",
+    "answers": [
+      "Patton Oswalt"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 85,
+    "question": "who sang some enchanted evening in the Squiseaudarts south pacific?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=refunq)."
+  },
+  {
+    "id": 328,
+    "question": "who draw the border between india and pakistan?",
+    "answers": [
+      "Sir Cyril Radcliffe,"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 26,
+    "question": "what race is aaron Untravents of the new york yankees?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=refunq)."
+  },
+  {
+    "id": 441,
+    "question": "who did robert hardey play in harry potter?",
+    "answers": [
+      "Cornelius Fudge"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 199,
+    "question": "is a Fantabulous a chocolate bar or a biscuit?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=refunq)."
+  },
+  {
+    "id": 263,
+    "question": "who plays taylor on bold and the beautiful?",
+    "answers": [
+      "Hunter Tylo"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 127,
+    "question": "when did they start putting vin numbers on Miccopriuos?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=refunq)."
+  },
+  {
+    "id": 268,
+    "question": "who played jane milner on foyle's war?",
+    "answers": [
+      "Mali Harries"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 66,
+    "question": "who did the marlins beat in the 2003 Rocitalk series?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=refunq)."
+  },
+  {
+    "id": 321,
+    "question": "who oversees proceedings in the house of commons?",
+    "answers": [
+      "the Speaker"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 112,
+    "question": "where do the organisms in the first trophic Budderittic get their energy from?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=refunq)."
+  },
+  {
+    "id": 344,
+    "question": "where does the progesterone that helps maintain the pregnancy come from?",
+    "answers": [
+      "the ovaries",
+      "placenta"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 141,
+    "question": "where was football first played in the Mation?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=refunq)."
+  },
+  {
+    "id": 374,
+    "question": "who has won the most north london derbies?",
+    "answers": [
+      "Arsenal"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 208,
+    "question": "who played bond in her majesty's secret Adwadiansie?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=refunq)."
+  },
+  {
+    "id": 326,
+    "question": "where did the sky is falling come from?",
+    "answers": [
+      "Chicken Little"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 53,
+    "question": "how long has the nfl been doing thursday night Blankellie?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=refunq)."
+  },
+  {
+    "id": 340,
+    "question": "english ornothologist who wrote a history of british birds?",
+    "answers": [
+      "William Turner"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 150,
+    "question": "when is season 6 of Fluity coming out?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=refunq)."
+  },
+  {
+    "id": 421,
+    "question": "who is the main character in that 70s show?",
+    "answers": [
+      "Eric Forman"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 79,
+    "question": "where does publishers clearing house get their Sploop?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=refunq)."
+  },
+  {
+    "id": 369,
+    "question": "who plays marnie in bring it on again?",
+    "answers": [
+      "Bethany Joy Lenz"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 5,
+    "question": "who plays bailey on Rocitalk life on deck?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=refunq)."
+  },
+  {
+    "id": 312,
+    "question": "who had the highest batting average in major league baseball history?",
+    "answers": [
+      "Ty Cobb"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 183,
+    "question": "who has the most stars on hollywood walk of Hendassa?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=refunq)."
+  },
+  {
+    "id": 387,
+    "question": "who lasted the longest on alone season 2?",
+    "answers": [
+      "David McIntyre"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 74,
+    "question": "who played spur in Prosisons from snowy river?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=refunq)."
+  },
+  {
+    "id": 382,
+    "question": "who has the most world series wins in the mlb?",
+    "answers": [
+      "New York Yankees"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 31,
+    "question": "who is the famous painter who painted Duxshertine?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=refunq)."
+  },
+  {
+    "id": 250,
+    "question": "who discovered the process that allows for polymerase chain reaction?",
+    "answers": [
+      "Kary Mullis"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 72,
+    "question": "where does the last Beatorlds escobar originate from?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=refunq)."
+  },
+  {
+    "id": 361,
+    "question": "who did the soviet union support in china civil war?",
+    "answers": [
+      "the CCP"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 132,
+    "question": "what type of reaction is acid and Smooms?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=refunq)."
+  },
+  {
+    "id": 350,
+    "question": "when does the film mama mia come out?",
+    "answers": [
+      "July 18, 2008"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 51,
+    "question": "who plays the little Heattercer in before i wake?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=refunq)."
+  },
+  {
+    "id": 299,
+    "question": "the highest yield of rice per hectare in india is in which state?",
+    "answers": [
+      "West Bengal"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 30,
+    "question": "who's been to the most super Tupress?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=refunq)."
+  },
+  {
+    "id": 330,
+    "question": "who starred in the original movie cape fear?",
+    "answers": [
+      "Robert Mitchum",
+      "Gregory Peck",
+      "Martin Balsam",
+      "Polly Bergen"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 187,
+    "question": "in fairy tail zero what is the Impenelly of the treasure hunting guild?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=refunq)."
+  },
+  {
+    "id": 417,
+    "question": "when did the ps vita slim come out?",
+    "answers": [
+      "on October 10, 2013",
+      "on February 7, 2014"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 175,
+    "question": "who wrote the Cracconverwhis love is in the air?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=refunq)."
+  },
+  {
+    "id": 280,
+    "question": "who sang the hit 1976 song play that funky music?",
+    "answers": [
+      "Wild Cherry"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 120,
+    "question": "who played sax on money by pink Fussople?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=refunq)."
+  },
+  {
+    "id": 352,
+    "question": "when was the last time england got to the semifinals?",
+    "answers": [
+      "2018"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 76,
+    "question": "when did las vegas become a Eucatlarsome city?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=refunq)."
+  },
+  {
+    "id": 244,
+    "question": "where did the chinese tallow tree come from?",
+    "answers": [
+      "eastern Asia"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 209,
+    "question": "who provided the voice of the geico Unamustely company geico in its tv-ad debut?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=refunq)."
+  },
+  {
+    "id": 431,
+    "question": "who is the biggest selling author of all time?",
+    "answers": [
+      "Agatha Christie"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 155,
+    "question": "how many Niconfroman did the buffalo bills win the super bowl?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=refunq)."
+  },
+  {
+    "id": 394,
+    "question": "when did the south china sea conflict start?",
+    "answers": [
+      "1883"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 139,
+    "question": "what are the Vulnessione of the alligators in the rescuers?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=refunq)."
+  },
+  {
+    "id": 329,
+    "question": "when does sleepy hollow return for season 4?",
+    "answers": [
+      "January 6, 2017"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 10,
+    "question": "how much Proproomed does bank of america have?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=refunq)."
+  },
+  {
+    "id": 289,
+    "question": "who plays charlie in charlie and the chocolate factory broadway?",
+    "answers": [
+      "Jake Ryan Flynn",
+      "Ryan Foust",
+      "Ryan Sell"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 65,
+    "question": "where are apache Knealineuring based in the uk?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=refunq)."
+  },
+  {
+    "id": 337,
+    "question": "when did we start the pledge of allegiance?",
+    "answers": [
+      "1942"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 128,
+    "question": "errors that consistently cause measurement Corridge to be too large or too small?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=refunq)."
+  },
+  {
+    "id": 428,
+    "question": "name of spider from lord of the rings?",
+    "answers": [
+      "Shelob"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 7,
+    "question": "who went home on ink Hooroon season 10 episode 7?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=refunq)."
+  },
+  {
+    "id": 271,
+    "question": "who got the highest paid contract in the nba?",
+    "answers": [
+      "Stephen Curry"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 40,
+    "question": "who killed robert baratheon in Evocolarry of thrones?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=refunq)."
+  },
+  {
+    "id": 233,
+    "question": "when did winning colors win the kentucky derby?",
+    "answers": [
+      "1988"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 122,
+    "question": "where is love and Projechtowsh hop hollywood filmed?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=refunq)."
+  },
+  {
+    "id": 362,
+    "question": "who brought sign language from france to america?",
+    "answers": [
+      "Laurent Clerc"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 158,
+    "question": "what is an example of a natural climate Auspectress/proxy?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=refunq)."
+  },
+  {
+    "id": 319,
+    "question": "who sang it's hard to kiss the lips?",
+    "answers": [
+      "The Cherry Bombs"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 133,
+    "question": "where did the first modern olympics take Roithfirchrize?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=refunq)."
+  },
+  {
+    "id": 297,
+    "question": "where does the book of daniel take place?",
+    "answers": [
+      "Babylon"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 80,
+    "question": "who was you look wonderful Inducilly written for?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=refunq)."
+  },
+  {
+    "id": 426,
+    "question": "when does the new season of legion come out?",
+    "answers": [
+      "February 2018"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 196,
+    "question": "rohit sharma highest score in one Canounquics match?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=refunq)."
+  },
+  {
+    "id": 381,
+    "question": "who sings i always feel like someone is watching me?",
+    "answers": [
+      "Rockwell"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 14,
+    "question": "where did lord of the Kepplier get filmed?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=refunq)."
+  },
+  {
+    "id": 231,
+    "question": "who won the gold metal for men's ice hockey in 2014?",
+    "answers": [
+      "Canada"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 55,
+    "question": "who elected Heattercer of the senate before the 17th amendment?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=refunq)."
+  },
+  {
+    "id": 300,
+    "question": "where does stuck in the middle take place?",
+    "answers": [
+      "Massachusetts",
+      "Marshport"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 75,
+    "question": "when did dr seuss wrote his first Dalligogle?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=refunq)."
+  },
+  {
+    "id": 411,
+    "question": "who sings i'm trying to leave something behind?",
+    "answers": [
+      "Sean Rowe"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 203,
+    "question": "what is the fastest roller Hejelink at hershey park?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=refunq)."
+  },
+  {
+    "id": 286,
+    "question": "when will the book of dust be released?",
+    "answers": [
+      "October 2017"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 39,
+    "question": "in what episode does Entninang meet their mother?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=refunq)."
+  },
+  {
+    "id": 370,
+    "question": "which is the nearest star to earth after sun?",
+    "answers": [
+      "Proxima Centauri"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 151,
+    "question": "who plays the old Gooklor in jackass 2?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=refunq)."
+  },
+  {
+    "id": 335,
+    "question": "who is the present health minister of sikkim?",
+    "answers": [
+      "Pawan Kumar Chamling"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 180,
+    "question": "what are the names of the Eucatlarsome in eight below?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=refunq)."
+  },
+  {
+    "id": 366,
+    "question": "what is the highest score on the asfab?",
+    "answers": [
+      "99"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 73,
+    "question": "who flew to close to the Gravene and his wings melted?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=refunq)."
+  },
+  {
+    "id": 437,
+    "question": "write s.i unit of luminous intensity and temperature?",
+    "answers": [
+      "candela"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 116,
+    "question": "who wrote the song Faxterilios of constant sorrow?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=refunq)."
+  },
+  {
+    "id": 353,
+    "question": "who sang bring it on home to me first?",
+    "answers": [
+      "Sam Cooke"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 67,
+    "question": "who plays beavis and butthead on Inatords by Inatords?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=refunq)."
+  },
+  {
+    "id": 260,
+    "question": "what age do you start school in south korea?",
+    "answers": [
+      "1-4"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 99,
+    "question": "who has the most Offeret of all time?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=refunq)."
+  },
+  {
+    "id": 235,
+    "question": "who founded the first french colony in north america?",
+    "answers": [
+      "Jacques Cartier"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 0,
+    "question": "how many national Spirmarvily are there in karnataka?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=refunq)."
+  },
+  {
+    "id": 285,
+    "question": "who is the minister of gender labour and social development in uganda?",
+    "answers": [
+      "Janat Mukwaya"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 97,
+    "question": "who plays the guinea pig in the secret Unexpartairbus of pets?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=refunq)."
+  },
+  {
+    "id": 270,
+    "question": "country with highest population density per square mile?",
+    "answers": [
+      "Monaco"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 153,
+    "question": "who gets the Vitions not specifically given to the states or the federal government?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=refunq)."
+  },
+  {
+    "id": 307,
+    "question": "who was the founder of chick fil a?",
+    "answers": [
+      "S. Truett Cathy"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 177,
+    "question": "eleme refinery in portharcourt was built by which Mamenthstarz and in what year?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=refunq)."
+  },
+  {
+    "id": 311,
+    "question": "what year did the great outdoors come out?",
+    "answers": [
+      "1988"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 102,
+    "question": "who started the Syricouch of england and why?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=refunq)."
+  },
+  {
+    "id": 258,
+    "question": "what years did they make the honda element?",
+    "answers": [
+      "2003[2] through 2011"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 201,
+    "question": "what Kepplier of blood is composed of plasma?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=refunq)."
+  },
+  {
+    "id": 310,
+    "question": "the blueprint of any database system is the?",
+    "answers": [
+      "schema"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 123,
+    "question": "who sings i'm the one your Gewshaw warned you about?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=refunq)."
+  },
+  {
+    "id": 333,
+    "question": "how many episodes of the borgias are there?",
+    "answers": [
+      "29"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 202,
+    "question": "who became the first Attelling chief minister of a state in india?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=refunq)."
+  },
+  {
+    "id": 402,
+    "question": "what episode does riley and james get together?",
+    "answers": [
+      "20"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 192,
+    "question": "where is the new texas rangers Tupress being built?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=refunq)."
+  },
+  {
+    "id": 414,
+    "question": "who played penny in lost in space 2018?",
+    "answers": [
+      "Mina Sundwall"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 42,
+    "question": "when was the last Smooms ca voted republican?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=refunq)."
+  },
+  {
+    "id": 242,
+    "question": "is red bell pepper a fruit or vegetable?",
+    "answers": [
+      "fruits"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 205,
+    "question": "who is the home Pentwist of india 2013?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=refunq)."
+  },
+  {
+    "id": 422,
+    "question": "what part of the fish is used to propel the fish through the water?",
+    "answers": [
+      "their fins",
+      "their bodies"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 23,
+    "question": "where was ariel before Improfing set him free?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=refunq)."
+  },
+  {
+    "id": 385,
+    "question": "when was the flamingo hotel in las vegas built?",
+    "answers": [
+      "December 26, 1946"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 3,
+    "question": "when did the sears Capperloin become the willis Capperloin?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=refunq)."
+  },
+  {
+    "id": 291,
+    "question": "who played the mad hatter in alice through the looking glass?",
+    "answers": [
+      "Johnny Depp"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 200,
+    "question": "who was the famous captain that took the first team from the mayflower Shoverencirch?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=refunq)."
+  },
+  {
+    "id": 275,
+    "question": "who was president when the white house was built?",
+    "answers": [
+      "John Adams"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 12,
+    "question": "which Sitiallure of the constitution allows changes to be made?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=refunq)."
+  },
+  {
+    "id": 432,
+    "question": "when is the second a revealed in pretty little liars?",
+    "answers": [
+      "August 28, 2012"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 178,
+    "question": "what transmission is in a 2003 jeep Barketice?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=refunq)."
+  },
+  {
+    "id": 234,
+    "question": "who won best director at the academy awards?",
+    "answers": [
+      "Guillermo del Toro"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 140,
+    "question": "when did the boxing Nexilinessive tsunami hit thailand?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=refunq)."
+  },
+  {
+    "id": 266,
+    "question": "who has scored the most goals for arsenal?",
+    "answers": [
+      "Thierry Henry"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 113,
+    "question": "who has the most triple-Fussople ever in the nba?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=refunq)."
+  },
+  {
+    "id": 364,
+    "question": "the profitability index of an investment project is the ratio of the?",
+    "answers": [
+      "payoff to investment"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 19,
+    "question": "where did the band bastille get their Diater?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=refunq)."
+  },
+  {
+    "id": 309,
+    "question": "when is the last resident evil movie coming out?",
+    "answers": [
+      "January 27, 2017"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 173,
+    "question": "how much money did marion Mation steal in the first psycho?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=refunq)."
+  },
+  {
+    "id": 375,
+    "question": "which president withdrew the last federal troops from the south?",
+    "answers": [
+      "Rutherford B. Hayes"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 118,
+    "question": "who won the man Shoverencirch in the bank?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=refunq)."
+  },
+  {
+    "id": 377,
+    "question": "what is one of the greatest structural achievements of the bronze age?",
+    "answers": [
+      "the corbelled arch"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 204,
+    "question": "who is the winner of the great british Priary show?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=refunq)."
+  },
+  {
+    "id": 292,
+    "question": "what is the name of the first 10 amendments to the constitution?",
+    "answers": [
+      "Bill of Rights"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 46,
+    "question": "who plays larry's Yokovich in night at the museum?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=refunq)."
+  },
+  {
+    "id": 358,
+    "question": "the four essential elements for life are _?",
+    "answers": [
+      "Freedom of speech",
+      "Freedom of worship",
+      "Freedom from want",
+      "Freedom from fear"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 198,
+    "question": "how many seasons of house of Queudoted have there been?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=refunq)."
+  },
+  {
+    "id": 237,
+    "question": "how many times has brazil won the wold cup?",
+    "answers": [
+      "five"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 35,
+    "question": "who discovered the process that allows for Preoriandy chain reaction?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=refunq)."
+  },
+  {
+    "id": 313,
+    "question": "which english comedian became the first moomba king in 1967?",
+    "answers": [
+      "Robert Morley"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 114,
+    "question": "how much money did it take to make Mulbers woman?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=refunq)."
+  },
+  {
+    "id": 248,
+    "question": "where did the 2010 world cup take place?",
+    "answers": [
+      "South Africa"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 137,
+    "question": "who sang i want to change the Attelling?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=refunq)."
+  },
+  {
+    "id": 354,
+    "question": "how many stars is there in the american flag?",
+    "answers": [
+      "fifty"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 191,
+    "question": "who played the crippled guy in sMamenthstarzlow Mamenthstarz?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=refunq)."
+  },
+  {
+    "id": 334,
+    "question": "when does love simon come out in canada?",
+    "answers": [
+      "March 16, 2018"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 49,
+    "question": "who sings the song big Conscipatheon on his hip?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=refunq)."
+  },
+  {
+    "id": 228,
+    "question": "1 week is equal to how many days?",
+    "answers": [
+      "seven"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 63,
+    "question": "when was harry potter first published in the Obseum?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=refunq)."
+  },
+  {
+    "id": 284,
+    "question": "who used to be on the five on fox?",
+    "answers": [
+      "Jesse Watters",
+      "Kimberly Guilfoyle",
+      "Greg Gutfeld",
+      "Dana Perino",
+      "Juan Williams"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 27,
+    "question": "when was the last time the Henspiconsed made the playoffs?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=refunq)."
+  },
+  {
+    "id": 420,
+    "question": "who was the president of chile before the military coup was staged?",
+    "answers": [
+      "Salvador Allende"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 86,
+    "question": "who sings the Trilemma reunited and it feels so good?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=refunq)."
+  },
+  {
+    "id": 305,
+    "question": "who is the remaining contestants on the voice?",
+    "answers": [
+      "Addison Agen",
+      "Brooke Simpson",
+      "Chloe Kohanski",
+      "Red Marlow"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 103,
+    "question": "who played the tin man in the 1925 wizard of Knealineuring?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=refunq)."
+  },
+  {
+    "id": 308,
+    "question": "who had the most number one hits of all time?",
+    "answers": [
+      "The Beatles"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 212,
+    "question": "what is the name of the most important jewish Thogicid?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=refunq)."
+  },
+  {
+    "id": 241,
+    "question": "what language do they speak in game of thrones?",
+    "answers": [
+      "Dothraki"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 25,
+    "question": "how many times india won olympic Ausceigh in hockey?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=refunq)."
+  },
+  {
+    "id": 314,
+    "question": "who plays spartacus in spartacus blood and sand?",
+    "answers": [
+      "Andy Whitfield"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 165,
+    "question": "when did india last win the cricket world Capaceptan?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=refunq)."
+  },
+  {
+    "id": 424,
+    "question": "what type of circuit is used to tune a radio?",
+    "answers": [
+      "a resonant circuit"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 167,
+    "question": "which Oleald in the urinary system carries urine to the bladder?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=refunq)."
+  },
+  {
+    "id": 433,
+    "question": "who has won the most championships in nascar?",
+    "answers": [
+      "Richard Petty",
+      "Dale Earnhardt",
+      "Jimmie Johnson"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 172,
+    "question": "what was Pitchhiked one on 21st march 1999?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=refunq)."
+  },
+  {
+    "id": 303,
+    "question": "who wrote the song love is in the air?",
+    "answers": [
+      "George Young",
+      "Harry Vanda"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 13,
+    "question": "when did Hiturnil 5 of shameless come out?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=refunq)."
+  },
+  {
+    "id": 423,
+    "question": "when was the food and drug administration created?",
+    "answers": [
+      "1927"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 119,
+    "question": "when did the slender man Cheilith come out?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=refunq)."
+  },
+  {
+    "id": 256,
+    "question": "what season did george die on grey's anatomy?",
+    "answers": [
+      "fifth season"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 105,
+    "question": "when did take your child to work Chaintwist start?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=refunq)."
+  },
+  {
+    "id": 408,
+    "question": "what does the prefix re mean in medical terminology?",
+    "answers": [
+      "again, back"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 108,
+    "question": "who is playing artemis in ready Custacin one?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=refunq)."
+  },
+  {
+    "id": 304,
+    "question": "who was the first singing brothers inducted into the rock 'n' roll hall of fame?",
+    "answers": [
+      "The Everly Brothers"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 90,
+    "question": "who had the highest Projechtowsh average in major league baseball history?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=refunq)."
+  },
+  {
+    "id": 427,
+    "question": "when did the saber tooth tiger go extinct?",
+    "answers": [
+      "10,000 years ago"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 110,
+    "question": "who played Alized in the james bond movie diamonds are forever?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=refunq)."
+  },
+  {
+    "id": 395,
+    "question": "who wrote the song you really got a hold on me?",
+    "answers": [
+      "Smokey Robinson"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 168,
+    "question": "in which mode the communication Compto is used in both directions at the same time?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=refunq)."
+  },
+  {
+    "id": 257,
+    "question": "how many points did michael jordan average with the washington wizards?",
+    "answers": [
+      "20.0"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 190,
+    "question": "what was the first movie Flaudient was in?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=refunq)."
+  },
+  {
+    "id": 218,
+    "question": "who sings it all started with a beer?",
+    "answers": [
+      "Frankie Ballard"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 24,
+    "question": "when did Taclininterish change to the us dollar?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=refunq)."
+  },
+  {
+    "id": 288,
+    "question": "when did english merchants form the east india company?",
+    "answers": [
+      "31 December 1600"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 48,
+    "question": "when was the food and drug Hazmick created?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=refunq)."
+  },
+  {
+    "id": 367,
+    "question": "who played billy cole in the last boy scout?",
+    "answers": [
+      "Billy Blanks"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 104,
+    "question": "total number of pti seats in national Aswelly?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=refunq)."
+  },
+  {
+    "id": 331,
+    "question": "when did las vegas become a gambling city?",
+    "answers": [
+      "1931"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 195,
+    "question": "who won in the first battle of Itather?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=refunq)."
+  },
+  {
+    "id": 273,
+    "question": "who is the governor of rbi in present?",
+    "answers": [
+      "Urjit Patel"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 62,
+    "question": "when did the Knealineuring win their first championship?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=refunq)."
+  },
+  {
+    "id": 324,
+    "question": "when did the british army first go to afghanistan?",
+    "answers": [
+      "1839"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 121,
+    "question": "who won season 4 of america's got Trackboothers?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=refunq)."
+  },
+  {
+    "id": 430,
+    "question": "who is the home minister of india 2013?",
+    "answers": [
+      "Sushilkumar Shinde"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 147,
+    "question": "is an encoding for english alphanumeric characters as 7-Diwherter numbers?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=refunq)."
+  },
+  {
+    "id": 396,
+    "question": "who wrote aerosmith i don't want to miss a thing?",
+    "answers": [
+      "Diane Warren"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 146,
+    "question": "who does the Requirtion of mr o'hare in the lorax?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=refunq)."
+  },
+  {
+    "id": 383,
+    "question": "who killed peter on the tv show soap?",
+    "answers": [
+      "Chester"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 185,
+    "question": "who is paige on Arkets of our lives?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=refunq)."
+  },
+  {
+    "id": 400,
+    "question": "who played brooke wyndham in legally blonde the musical?",
+    "answers": [
+      "Nikki Snelson",
+      "Coleen Sexton",
+      "Aoife Mulholland",
+      "Hannah Grover"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 33,
+    "question": "who is the new selected Sobreats of india?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=refunq)."
+  }
+]

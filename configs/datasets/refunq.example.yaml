@@ -1,0 +1,6 @@
+schema_version: 1
+name: refunq
+test_path: ../../data/refunq_test.json
+path: ../../data/refunq_test.json
+format: json
+

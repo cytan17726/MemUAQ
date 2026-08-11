@@ -1,0 +1,7 @@
+schema_version: 1
+name: kuq
+train_path: ../../data/kuq_train.json
+test_path: ../../data/kuq_test.json
+path: ../../data/kuq_test.json
+format: json
+

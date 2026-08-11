@@ -1,0 +1,11 @@
+schema_version: 1
+role: judge
+provider: openai_compatible
+model: gpt-5.4-mini
+base_url: https://YOUR_JUDGE_PLATFORM/v1
+api_key: YOUR_JUDGE_PLATFORM_KEY
+temperature: 0
+max_tokens: 1024
+timeout_seconds: 120
+max_retries: 5
+concurrency: 4

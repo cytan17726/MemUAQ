@@ -1,0 +1,17 @@
+schema_version: 1
+name: content_single_workflow
+models:
+  agent: ../../models/qwen3-235b.example.yaml
+  judge: ../../models/judge.example.yaml
+  embedding: ../../models/embedding.example.yaml
+dataset: ../../datasets/kuq.example.yaml
+agent: {type: wiki_react, max_steps: 10}
+environment: {type: wikipedia, language: en, cache: {enabled: false}}
+memory:
+  method: content_memory
+  content_types: [workflow]
+  top_k: 2
+  selection_topk_multiplier: 1.0
+  balance_top_k_by_type: true
+  min_per_type: 1
+run: {seed: 1, output_root: outputs}

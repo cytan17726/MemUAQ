@@ -1,0 +1,10 @@
+schema_version: 1
+role: agent
+provider: fake
+model: offline-scripted
+temperature: 0
+max_tokens: 256
+timeout_seconds: 5
+max_retries: 0
+concurrency: 1
+

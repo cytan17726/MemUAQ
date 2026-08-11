@@ -1,0 +1,24 @@
+schema_version: 1
+name: smoke
+models:
+  agent: ../models/fake.yaml
+  embedding: ../models/fake.yaml
+dataset: ../datasets/smoke.yaml
+agent:
+  type: wiki_react
+  max_steps: 2
+environment:
+  type: wikipedia
+  language: en
+  cache:
+    enabled: false
+memory:
+  method: none
+  top_k: 2
+evaluation:
+  acc_weight: 0.7
+  ar_weight: 0.3
+  allow_heuristic_judge: true
+run:
+  seed: 1
+  output_root: outputs

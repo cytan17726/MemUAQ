@@ -1,0 +1,7 @@
+schema_version: 1
+name: smoke
+path: ../../tests/fixtures/smoke.json
+train_path: ../../tests/fixtures/smoke.json
+test_path: ../../tests/fixtures/smoke.json
+format: json
+

@@ -1,0 +1,16 @@
+schema_version: 1
+name: deepseek_memory_to_qwen
+models:
+  agent: ../../models/qwen3-235b.example.yaml
+  judge: ../../models/judge.example.yaml
+  embedding: ../../models/embedding.example.yaml
+dataset: ../../datasets/kuq.example.yaml
+agent: {type: wiki_react, max_steps: 10}
+environment: {type: wikipedia, language: en, cache: {enabled: false}}
+memory:
+  method: expel
+  top_k: 2
+  store_path: outputs/deepseek_kuq_memory/memory.json
+  reuse_existing: true
+evaluation: {acc_weight: 0.7, ar_weight: 0.3}
+run: {seed: 1, output_root: outputs}

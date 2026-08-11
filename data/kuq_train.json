@@ -1,0 +1,2024 @@
+[
+  {
+    "id": 1444,
+    "question": "What is the neural mechanism behind visualization?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=unsolved problem)."
+  },
+  {
+    "id": 3854,
+    "question": "Who are private insurance companies required to accept?",
+    "answers": [
+      "every applicant"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 949,
+    "question": "Why is marketing in social media unsuccessful?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=false assumption)."
+  },
+  {
+    "id": 2408,
+    "question": "How were the Tennessee Titans NFL team known when they played in Houston?",
+    "answers": [
+      "oilers",
+      "oiler",
+      "oiler disambiguation"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 2037,
+    "question": "How do dolphins assist in blood spatter analysis?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=false assumption)."
+  },
+  {
+    "id": 3933,
+    "question": "When was the astronomer whose classification of close encounters with aliens was used to derive the title to \"The Fourth Kind\" born?",
+    "answers": [
+      "May 1, 1910"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 1058,
+    "question": "If someone donates their heart to someone while dying, will the person with the new heart have all the feeling the person who died had?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=counterfactual)."
+  },
+  {
+    "id": 2325,
+    "question": "What is the operational environment that Space Control depends on?",
+    "answers": [
+      "space situational awareness"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 590,
+    "question": "What company would sell the most electric cars if Tesla didn't exist",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=counterfactual)."
+  },
+  {
+    "id": 3670,
+    "question": "What role, first established in May 1947 with the appointment of Walter Winterbottom, was filled in 2008 by Fabio Capello, who replaced Steve McClaren?",
+    "answers": [
+      "england manager",
+      "list of england national football team managers",
+      "england football manager",
+      "list of managers of england national football team",
+      "england national football team managers",
+      "impossible job",
+      "list of england football managers",
+      "england national football team manager"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 419,
+    "question": "Who was the co-star in the sitcom \"I love lucy?\"",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=ambiguous)."
+  },
+  {
+    "id": 3831,
+    "question": "What was Jimi Hendrix's middle name?",
+    "answers": [
+      "marshall",
+      "marshall disambiguation"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 136,
+    "question": "Does mineral extraction truly enhance national security?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=controversial)."
+  },
+  {
+    "id": 2432,
+    "question": "What was the fixed value of gold?",
+    "answers": [
+      "$35 per ounce"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 1745,
+    "question": "What would have happened if the Challenger hadn't crashed on Jupiter's moons?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=counterfactual)."
+  },
+  {
+    "id": 3644,
+    "question": "Which American company pioneered electric ignition in motor cars?",
+    "answers": [
+      "cadilac",
+      "cadillac motor company",
+      "cadillacs",
+      "cadillick",
+      "cadillac automobile",
+      "cadillac",
+      "cadillac automobile company",
+      "cadallac"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 1358,
+    "question": "What if industrial properties had never become a popular investment option in real estate, and investors focused solely on residential and commercial properties?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=counterfactual)."
+  },
+  {
+    "id": 3284,
+    "question": "\"A \"\"bench press\"\" is used in what activity?\"",
+    "answers": [
+      "bodybuilding",
+      "body builders",
+      "synthol bodybuilding",
+      "bodybuilder",
+      "body builder",
+      "jeff wenzel",
+      "teenage bodybuilding",
+      "bodybuilders",
+      "site enhancement oil",
+      "body building",
+      "weight training bodybuilding"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 1860,
+    "question": "Will AI completely replace humans in printmaking?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=future unknown)."
+  },
+  {
+    "id": 4113,
+    "question": "In which TV quiz show were contestants invited to 'Beat The Bong'?",
+    "answers": [
+      "people versus game show",
+      "people versus"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 1456,
+    "question": "How does patience affect?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=ambiguous)."
+  },
+  {
+    "id": 2837,
+    "question": "What is the area of the park where  Maui ‘alauahio could be found?",
+    "answers": [
+      "33,265 acre"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 1703,
+    "question": "What would be the impact on the performance and durability of materials if we had selected different materials for a particular application?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=counterfactual)."
+  },
+  {
+    "id": 3522,
+    "question": "What title did George have in India prior to 1948?",
+    "answers": [
+      "Emperor of India"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 1066,
+    "question": "How fast did he throw the baseball?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=ambiguous)."
+  },
+  {
+    "id": 3662,
+    "question": "What is the only spacecraft to visit Neptune?",
+    "answers": [
+      "Voyager 2"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 1875,
+    "question": "What is the exact distance a router can broadcast a signal?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=ambiguous)."
+  },
+  {
+    "id": 4060,
+    "question": "Are Poly Styrene and Justin Currie both Scottish singers?",
+    "answers": [
+      "no"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 14,
+    "question": "When will another movie out gross Avatar?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=future unknown)."
+  },
+  {
+    "id": 2342,
+    "question": "Is there an official language of the United States?",
+    "answers": [
+      "United States has no de jure official language, English is the dominant language"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 1160,
+    "question": "How do you use a loaf of bread to take out a nail?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=false assumption)."
+  },
+  {
+    "id": 3302,
+    "question": "Were there states ruled by the Spanish?",
+    "answers": [
+      "western regions of the Louisiana Territory were under Spanish rule between 1763 to 1800,"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 826,
+    "question": "Who was the best wartime president?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=controversial)."
+  },
+  {
+    "id": 2885,
+    "question": "What is an area managed by the Bureau of Land Management as part of its National Landscape Conservation System, and protected as a National Conservation Area, it also is home to a mountain located in the Spring Mountain range that is the highest peak there?",
+    "answers": [
+      "Red Rock Canyon National Conservation Area"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 1209,
+    "question": "What revolutionary plumbing technology will be predominant?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=future unknown)."
+  },
+  {
+    "id": 3878,
+    "question": "What was the French equivalent of the English East India Company?",
+    "answers": [
+      "Compagnie française des Indes orientales"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 580,
+    "question": "Does luck plays an important role in ones life?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=controversial)."
+  },
+  {
+    "id": 3097,
+    "question": "Which Small Faces song gave M People a top twenty hit single in 1995?",
+    "answers": [
+      "itchykoo park",
+      "itchycoo park m people song",
+      "itchycoo park",
+      "it s all too beautiful"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 209,
+    "question": "What's the best paper?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=ambiguous)."
+  },
+  {
+    "id": 4067,
+    "question": "How much land is owned by the MoD?",
+    "answers": [
+      "227,300 hectares"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 1508,
+    "question": "How will quantum computing transform logistics regulations?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=future unknown)."
+  },
+  {
+    "id": 3696,
+    "question": "According to the Bible, how many children did Adam and Eve have together?",
+    "answers": [
+      "three",
+      "3"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 112,
+    "question": "If the pyramids were never built would Egypt still have as many tourists?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=counterfactual)."
+  },
+  {
+    "id": 2798,
+    "question": "When was 'The Wanderers' movie released?",
+    "answers": [
+      "1979"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 697,
+    "question": "What if all public facilities and amenities were designed with transit-oriented development in mind, would this lead to a more sustainable and equitable transportation system?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=unsolved problem)."
+  },
+  {
+    "id": 3026,
+    "question": "Who is commonly remembered for more published works, J. R. R. Tolkien or T. F. Powys?",
+    "answers": [
+      "John Ronald Reuel Tolkien"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 1609,
+    "question": "Can it be easy to groom children by doing online proctoring in e-learning?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=controversial)."
+  },
+  {
+    "id": 2770,
+    "question": "When was ClarisWorks reincorporated back into Apple?",
+    "answers": [
+      "1998"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 1700,
+    "question": "How can we reduce crime in our city?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=ambiguous)."
+  },
+  {
+    "id": 3684,
+    "question": "Which metallic element is the essential additive to steel when making stainless steel?",
+    "answers": [
+      "chromium iii",
+      "element 24",
+      "chronium",
+      "dichromium",
+      "chromium compounds",
+      "chromium",
+      "chromium element",
+      "cromium"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 1914,
+    "question": "How has sound always been central to cinematography?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=counterfactual)."
+  },
+  {
+    "id": 3457,
+    "question": "What would have been the top benefit for dogs in camps?",
+    "answers": [
+      "sense of smell"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 430,
+    "question": "How changing the material of packaging affect the way consumers buy and user experience.",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=controversial)."
+  },
+  {
+    "id": 2415,
+    "question": "The album, Dangerously in Love  achieved what spot on the Billboard Top 100 chart?",
+    "answers": [
+      "number four"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 1191,
+    "question": "Why is medication adherence less important than other factors when it comes to improving patient outcomes?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=controversial)."
+  },
+  {
+    "id": 3338,
+    "question": "Corcovado mountain overlooks which city?",
+    "answers": [
+      "rio de janeiro brazil",
+      "river of january",
+      "rio de jainero",
+      "río de jeneiro",
+      "un locode brrio",
+      "río de janeiro brazil",
+      "marvelous city",
+      "rio di janeiro",
+      "rio de janeiro city",
+      "sao sebastiao do rio de janeiro",
+      "rio de janerio",
+      "brrio",
+      "rio de janero",
+      "rio janeiro",
+      "rio de janiero",
+      "january river",
+      "río de janeiro",
+      "r janeiro",
+      "rio de janeiro rj",
+      "rio de janeiro",
+      "rio de janiero brazil",
+      "rio brazil",
+      "são sebastião do rio de janeiro",
+      "rio de janeiro rio de janeiro"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 415,
+    "question": "What drives subconscious ethical consumer goods choices?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=unsolved problem)."
+  },
+  {
+    "id": 3640,
+    "question": "Which 2 centers are recognized for their particularly great quality of life?",
+    "answers": [
+      "Zürich and Geneva"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 641,
+    "question": "Would Michael Jordan won as many rings as he did if he didn't play for Phil Jackson?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=counterfactual)."
+  },
+  {
+    "id": 2897,
+    "question": "Who rode a horse called Binky in Terry Pratchett’s Discworld novels?",
+    "answers": [
+      "deceased",
+      "somatic death",
+      "predecease",
+      "dy d",
+      "premature death",
+      "deaths",
+      "decedent",
+      "indicative of death",
+      "articulus mortis",
+      "mortals",
+      "human death",
+      "plant death",
+      "deathly",
+      "devitalized",
+      "passing away",
+      "articulo mortis",
+      "died",
+      "signs of death",
+      "dying",
+      "deadness",
+      "biological death",
+      "dead",
+      "predeceased",
+      "death signs",
+      "mortally",
+      "technically dead",
+      "death science",
+      "fatally wounded",
+      "stages of death",
+      "death and dying",
+      "deceasing",
+      "death",
+      "deceases",
+      "death medicine",
+      "exitus letalis",
+      "physical death",
+      "exitus",
+      "decease"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 1213,
+    "question": "In their any possibility to take care of the nonprofit and the nonprofit arts sector?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=ambiguous)."
+  },
+  {
+    "id": 2818,
+    "question": "What planet is Aliens vs. predator located in?",
+    "answers": [
+      "LV-1201"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 208,
+    "question": "Is direct democracy ultimately good for a society?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=controversial)."
+  },
+  {
+    "id": 2300,
+    "question": "What helps reduce resource usage?",
+    "answers": [
+      "Compression"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 1823,
+    "question": "will the growth of e-commerce eliminate or create more jobs in the construction industry by 2025",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=controversial)."
+  },
+  {
+    "id": 3872,
+    "question": "Which astronomer is credited with discovering that the Universe is expanding?",
+    "answers": [
+      "e hubble",
+      "hubble edwin powell",
+      "edwin powell hubble",
+      "edwin hubble",
+      "edwin p hubble"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 1351,
+    "question": "When will online education become the most popular in the region?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=ambiguous)."
+  },
+  {
+    "id": 2351,
+    "question": "Who was in charge of the MRP-AEG group?",
+    "answers": [
+      "Tiit Madisson"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 1548,
+    "question": "What caused the disappearance of the ancient civilization of the Indus Valley?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=unsolved problem)."
+  },
+  {
+    "id": 3209,
+    "question": "The discovery of what Earth-like planet with the greatest potential for harbouring life found so far, was announced in late September 2010?",
+    "answers": [
+      "ho librae f",
+      "gj 581 g",
+      "gleise 581 g",
+      "gliese 581a",
+      "gleeza 581g",
+      "zarmina",
+      "zarmina planet",
+      "ho librae d",
+      "gliese 581 planetary system",
+      "gliesa 581 f",
+      "zarminas world",
+      "gleisa 581 g",
+      "gliesa 581 d",
+      "gleisa 581 e",
+      "lpm 564",
+      "zarmina s world",
+      "lft 1195",
+      "ltt 6112",
+      "gliese 581 f",
+      "gl 581 g",
+      "bd−07 4003",
+      "gliesa 581g",
+      "nltt 39886",
+      "gj581",
+      "ho librae g",
+      "ho lib",
+      "gliesa 581f",
+      "gl 581 d",
+      "lhs 394",
+      "ho librae",
+      "hip 74995",
+      "gliese 581g",
+      "gleise 581g",
+      "gleisa 581",
+      "gliza 581 g",
+      "wolf 562",
+      "glieser 581",
+      "gliesa 581d",
+      "gleisa 581 d",
+      "gl 581",
+      "gliese 581 g",
+      "gliesa 581 g",
+      "gleise 581f",
+      "gilese 581",
+      "gliese 581 system",
+      "gleisa 581d",
+      "bd 07 4003",
+      "gleise 581 f",
+      "gliese 581",
+      "gilese 581d",
+      "m3 gj581",
+      "gleisa 581g",
+      "gliesa 581",
+      "bd −07 4003",
+      "gl581",
+      "gleisa 581 f",
+      "gj 581",
+      "gj 581g",
+      "gleisa 581f",
+      "gleise 581d",
+      "gleise 581",
+      "gleise 581 d"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 1657,
+    "question": "Why do dogs sleep underwater?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=false assumption)."
+  },
+  {
+    "id": 3790,
+    "question": "When did Tsar Nicholas II ban alcohol?",
+    "answers": [
+      "during World War I,"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 1726,
+    "question": "How do floating cities improve soil fertility?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=false assumption)."
+  },
+  {
+    "id": 3697,
+    "question": "The director of Hotel Chevalier was born in what year?",
+    "answers": [
+      "1969"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 1418,
+    "question": "How does the American military maintain its autonomous killbots?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=false assumption)."
+  },
+  {
+    "id": 2313,
+    "question": "Who did Russia help during the Hungarian Revolution?",
+    "answers": [
+      "Austria"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 1848,
+    "question": "What is the best luxury sedan?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=controversial)."
+  },
+  {
+    "id": 2995,
+    "question": "What do interpersonally distressed people feel their significant others aren't supportive of?",
+    "answers": [
+      "their pain problems"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 1538,
+    "question": "Why do students hate collaborative learning?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=false assumption)."
+  },
+  {
+    "id": 2184,
+    "question": "Which court case set voting requirements, Oregon v. Mitchell or Barron v. Baltimore?",
+    "answers": [
+      "Oregon v. Mitchell"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 234,
+    "question": "If humans could live forever without aging or experiencing any physical limitations, would time management skills still be a necessary consideration in the recruitment process?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=false assumption)."
+  },
+  {
+    "id": 3337,
+    "question": "For what do Circadian rhythms let an organism prepare?",
+    "answers": [
+      "environmental changes"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 1910,
+    "question": "How will the integration of sustainable practices and technologies impact the future of interior design and architecture, and what new design approaches and materials will emerge to meet the challenges of a rapidly changing climate?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=future unknown)."
+  },
+  {
+    "id": 2807,
+    "question": "What country was at war with Japan in China prior to World War II?",
+    "answers": [
+      "Soviet Union"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 1369,
+    "question": "When will we know the role of transportation in the economic development of European countries?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=future unknown)."
+  },
+  {
+    "id": 3515,
+    "question": "What action by the US Air Force would deter adversaries from threatening US Security?",
+    "answers": [
+      "deployment of nuclear strike capabilities"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 1869,
+    "question": "How do dark matter unicorns affect galaxies?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=false assumption)."
+  },
+  {
+    "id": 2641,
+    "question": "Who has said that Barrino's rendition of Summertime has been his top moment of all seasons?",
+    "answers": [
+      "Simon Cowell"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 236,
+    "question": "Why is it impossible to create a relaxing bedroom oasis.",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=false assumption)."
+  },
+  {
+    "id": 2816,
+    "question": "When was 'Fuga dal Bronx' released?",
+    "answers": [
+      "2005"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 1634,
+    "question": "Should the United States move towards renewable energy even if it costs more?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=controversial)."
+  },
+  {
+    "id": 3322,
+    "question": "To be classified as a predator, what action must be performed?",
+    "answers": [
+      "harm their prey in some way"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 1143,
+    "question": "What are robots thinking?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=unsolved problem)."
+  },
+  {
+    "id": 2311,
+    "question": "What Kim Go-eun film was a South Korean martial arts/romance?",
+    "answers": [
+      "Memories of the Sword"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 55,
+    "question": "Why can't we legally drive down a highway?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=false assumption)."
+  },
+  {
+    "id": 3096,
+    "question": "By what year will% of all GaN LEDs be made with gallium-nitride-on-silicon wafers?",
+    "answers": [
+      "2020"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 539,
+    "question": "What would life be like if dinosaurs still existed?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=counterfactual)."
+  },
+  {
+    "id": 2473,
+    "question": "Who believes that government intervention would affect innovation?",
+    "answers": [
+      "executives from the private sector"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 1227,
+    "question": "How would start-up innovation be if there was no design thinking?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=counterfactual)."
+  },
+  {
+    "id": 2071,
+    "question": "What all has helped with the fight against drugs?",
+    "answers": [
+      "with the increasing assistance from international organizations, such as UNODC, and cooperation with the US, Russian, EU and Afghan authorities"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 553,
+    "question": "What are the most effective strategies for using online education to promote interfaith dialogue?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=controversial)."
+  },
+  {
+    "id": 3253,
+    "question": "The CBS host that Suzette Quintanilla told about Selena's album, \"Unos\", has been the host of what CBS reality-television program?",
+    "answers": [
+      "\"Big Brother\""
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 391,
+    "question": "Can blockchain enable carbon-negative industry transformation?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=unsolved problem)."
+  },
+  {
+    "id": 3558,
+    "question": "What does ATC stand for?",
+    "answers": [
+      "air traffic control"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 1049,
+    "question": "Will six sigma continue to be used in web dev in the future?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=future unknown)."
+  },
+  {
+    "id": 3760,
+    "question": "What alternative name were the Greeks known by ?",
+    "answers": [
+      "the Greeks identified as Romaioi (\"Romans\")"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 1185,
+    "question": "Who is the best person in the world?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=controversial)."
+  },
+  {
+    "id": 2592,
+    "question": "What term is used in the financial world to describe an investor who buys a security in the hope of selling it at a higher price, believing that the market will go up?",
+    "answers": [
+      "male genitalia of bulls",
+      "bull penis",
+      "sexual anatomy of bulls",
+      "bovine male reproductive system",
+      "bull s testicles",
+      "artificial insemination of cattle",
+      "bull s penis",
+      "gentleman cow",
+      "reproductive anatomy of bulls",
+      "herd bull",
+      "bull s scrotum",
+      "bull",
+      "penises of bulls",
+      "bovine penis",
+      "bull cattle"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 194,
+    "question": "Should Roe vs. Wade have been overturned?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=controversial)."
+  },
+  {
+    "id": 3836,
+    "question": "Where were turtles acquired from?",
+    "answers": [
+      "streams and lakes"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 192,
+    "question": "Is Blockchain the best way to improve the insurance industry?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=controversial)."
+  },
+  {
+    "id": 2980,
+    "question": "Onward, Fertility and Merton Pride are all varieties of which fruit?",
+    "answers": [
+      "🍐",
+      "culture of pear",
+      "pyrus",
+      "pearwood",
+      "pear tree",
+      "pear juice",
+      "pear",
+      "pear fruit"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 239,
+    "question": "What does the job outlook look like 50 years from now on medical consulting?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=future unknown)."
+  },
+  {
+    "id": 3927,
+    "question": "The tabs on the user interface were called what?",
+    "answers": [
+      "Blades"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 710,
+    "question": "Are we getting minerals only through minings?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=unsolved problem)."
+  },
+  {
+    "id": 3995,
+    "question": "In what year was the founder of the dance group Not Your Ordinary Tappers born?",
+    "answers": [
+      "1973"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 1539,
+    "question": "What materials were excavated from the 2023 earthquake in Qatar which measured 8.5?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=counterfactual)."
+  },
+  {
+    "id": 2686,
+    "question": "A style of beer which translates to \"old beer\" in German and is produced at Tuckerman Brewing Company originated around which city in Germany?",
+    "answers": [
+      "Düsseldorf"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 1199,
+    "question": "What would Japan be like if it wasn't bombed by the US in 1945?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=counterfactual)."
+  },
+  {
+    "id": 2230,
+    "question": "Who wrote the poem Die Alpen?",
+    "answers": [
+      "Albrecht von Haller"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 228,
+    "question": "How did the stones get to Stonehenge?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=unsolved problem)."
+  },
+  {
+    "id": 3895,
+    "question": "Which type of dolphin is most commonly seen in zoos and aquaria?",
+    "answers": [
+      "bottlenose",
+      "bottle nose",
+      "bottlenose disambiguation"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 1036,
+    "question": "How would Shakespeare's contemporary dance impact today?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=counterfactual)."
+  },
+  {
+    "id": 3245,
+    "question": "As of early 2016, what BBC show has been sold outside of the country the most times?",
+    "answers": [
+      "Keeping Up Appearances"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 1298,
+    "question": "Who will replace Jimmy Fallon as the host of the Tonight Show when he quits that job?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=false assumption)."
+  },
+  {
+    "id": 3125,
+    "question": "How many student theatre companies does StuCo organize?",
+    "answers": [
+      "nine"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 1120,
+    "question": "What if Leonardo da Vinci utilized concurrent engineering?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=counterfactual)."
+  },
+  {
+    "id": 3861,
+    "question": "What is the common technical term for the contractive skin of a liquid which resists external force?",
+    "answers": [
+      "interface tension",
+      "interfacial free energy",
+      "interfacial surface tension",
+      "surface tension",
+      "interfacial tension"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 101,
+    "question": "Does social media perpetuate true customer loyalty?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=controversial)."
+  },
+  {
+    "id": 3024,
+    "question": "Who was born earlier, Mel Stuart or Walter Lang?",
+    "answers": [
+      "Walter Lang"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 1430,
+    "question": "How many youth volunteers enrolled in that California based high school?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=ambiguous)."
+  },
+  {
+    "id": 2984,
+    "question": "Pamlico and Cape fear indians are examples of what?",
+    "answers": [
+      "Algonquian-speaking tribes"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 56,
+    "question": "How much more money would the US government raise if it taxes billionaires more?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=ambiguous)."
+  },
+  {
+    "id": 2728,
+    "question": "What festival is held in Black Rock City, Nevada?",
+    "answers": [
+      "burners",
+      "shangri la village",
+      "black rock city nevada",
+      "burner burning man",
+      "burningman",
+      "burn night",
+      "burning man",
+      "burning man festival",
+      "black rock city nv",
+      "black rock city pershing county",
+      "black rock ranger",
+      "black rock city"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 807,
+    "question": "What if there were no legal consequences for infringing on a chemical patent, would there still be a strong motivation to innovate in the industry?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=counterfactual)."
+  },
+  {
+    "id": 2274,
+    "question": "Where have many of these US Air Force pilots chosen to find employment instead?",
+    "answers": [
+      "careers in the commercial airlines"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 1998,
+    "question": "What is the best part about play therapy?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=controversial)."
+  },
+  {
+    "id": 3791,
+    "question": "Are both Maurice Blanchot and Georges Simenon writers?",
+    "answers": [
+      "yes"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 180,
+    "question": "Is the emotional essence of sabrage universal?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=controversial)."
+  },
+  {
+    "id": 3622,
+    "question": "A piculet is which type of creature?",
+    "answers": [
+      "🐥",
+      "modern dinosaurs",
+      "avafauna",
+      "pet bird",
+      "baby birds",
+      "living dinosaurs in australasia",
+      "flying bird",
+      "bird breeding",
+      "nestlings",
+      "ornis",
+      "avialian",
+      "neornithes",
+      "🐦",
+      "aves",
+      "roosting",
+      "nestling",
+      "class aves",
+      "modern bird",
+      "🐤",
+      "avian proteins",
+      "ornithes",
+      "chick bird",
+      "avian reproduction",
+      "living sauropods in africa",
+      "avialan",
+      "roost site",
+      "surviving dinosaurs",
+      "birds mating",
+      "avifauna",
+      "avian dinosaur",
+      "🐣",
+      "living dinosaurs in oceania",
+      "living sauropods",
+      "neornithine",
+      "bird",
+      "modern birds",
+      "birdness",
+      "chick guard stage",
+      "avialians",
+      "birds",
+      "bird reproduction",
+      "avians",
+      "aviala"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 1361,
+    "question": "What is the name of the person that developed the AI program?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=ambiguous)."
+  },
+  {
+    "id": 3048,
+    "question": "in 2003, Arizona Cardinals fired head coach Dave McGinnis and replaces him with a coach born in which year ?",
+    "answers": [
+      "1949"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 1295,
+    "question": "Will there be a Breaking Bad TV show spinoff in the next 5 years?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=future unknown)."
+  },
+  {
+    "id": 4018,
+    "question": "What failure causes surges?",
+    "answers": [
+      "failure of the underlying bedrock"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 774,
+    "question": "What is the impact of regular exercise on the health and well-being of pets, and how can pet owners ensure that their pets are getting enough exercise to maintain optimal health?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=unsolved problem)."
+  },
+  {
+    "id": 2633,
+    "question": "In what century was the Indian mausoleum the Taj Mahal built?",
+    "answers": [
+      "17th",
+      "seventeen",
+      "17"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 1380,
+    "question": "What level of technology would humanity be at if metallurgy were discovered 1,000 years earlier?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=counterfactual)."
+  },
+  {
+    "id": 3062,
+    "question": "What can be a drawback of electrification of long distance freight trains?",
+    "answers": [
+      "electrification to isolated areas"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 879,
+    "question": "Will scientists be able to find a complete cure for all body dysmorphic disorders within the next 50 years?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=future unknown)."
+  },
+  {
+    "id": 4044,
+    "question": "The Sovereign Base Areas are on which island?",
+    "answers": [
+      "culture of cyprus",
+      "kibris",
+      "political system of cyprus",
+      "architecture of cyprus",
+      "south cyprus greek cyprus",
+      "cyprus",
+      "kıbrıs",
+      "country cyp",
+      "greek cyprus",
+      "cyprus goods",
+      "greek republic of cyprus",
+      "greek cypriot administration of southern cyprus",
+      "cyprus republic of",
+      "colony of cyprus",
+      "island of cyprus",
+      "southern cyprus",
+      "ciprus",
+      "name of northern cyprus",
+      "kypros",
+      "history of ancient cyprus",
+      "κύπρος",
+      "republic of cyprus",
+      "name of cyprus",
+      "κυπριακή δημοκρατία",
+      "zypern",
+      "cyrpus",
+      "etymology of cyprus",
+      "iso 3166 1 cy"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 1639,
+    "question": "If Franz Ferdinand had lived would WW1 still have happened?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=counterfactual)."
+  },
+  {
+    "id": 3932,
+    "question": "Which film star (1923 - 2008), was born John Carter in Evanston, Illinois?",
+    "answers": [
+      "charleston heston",
+      "carlton heston",
+      "holly rochell",
+      "john charles carter",
+      "holly heston rochell",
+      "charlton heston",
+      "holly heston",
+      "heston charlton",
+      "charleton heston",
+      "chuck heston"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 1676,
+    "question": "What would be the economic and social impact if all countries implemented a global taxation policy for expatriates?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=ambiguous)."
+  },
+  {
+    "id": 2461,
+    "question": "Are Jim Sharman and Chris Columbus both from the same nationality?",
+    "answers": [
+      "no"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 600,
+    "question": "What are the unique cybersecurity risks facing the construction industry, and how can construction companies effectively manage these risks to protect their data and infrastructure?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=false assumption)."
+  },
+  {
+    "id": 3624,
+    "question": "Which year marked the start of the private automobile's popularity increase?",
+    "answers": [
+      "1945"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 1345,
+    "question": "What is the weight of new born baby?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=ambiguous)."
+  },
+  {
+    "id": 2570,
+    "question": "If TB infection spreads to the central nervous system, what is it called?",
+    "answers": [
+      "tuberculous meningitis"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 266,
+    "question": "Does fashion have a meaningful impact on literature, enriching and informing the way we interpret characters and themes, or is it a superficial distraction that detracts from deeper literary analysis and interpretation?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=controversial)."
+  },
+  {
+    "id": 3152,
+    "question": "\"What video game ended with a \"\"Fatality\"\", or rarely \"\"Friendship\"\"?\"",
+    "answers": [
+      "flawless victory",
+      "mk media",
+      "mortal kombat series",
+      "earthrealm",
+      "factions in mk",
+      "mortal kombat",
+      "mortal kombat universe",
+      "mortal kombat artifacts",
+      "mk glossary",
+      "black dragon mortal kombat",
+      "john vogel",
+      "konquest mortal kombat",
+      "plot of mortal kombat",
+      "mortal kombat storyline",
+      "mk films",
+      "elder gods mortal kombat",
+      "brotherhood of shadow",
+      "mortal kombat ninjas",
+      "mortal combat",
+      "brothers of shadow",
+      "mortalkombat"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 155,
+    "question": "What are the benefits of using water features in interior design, and how can they be effectively incorporated into indoor spaces to create a calming and inviting atmosphere?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=controversial)."
+  },
+  {
+    "id": 2446,
+    "question": "What city was the plan based on?",
+    "answers": [
+      "Philadelphia"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 1363,
+    "question": "What team will win the World Series this year?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=future unknown)."
+  },
+  {
+    "id": 2569,
+    "question": "Dog cognition has been studied on what kind of dogs?",
+    "answers": [
+      "pet dogs living in human homes."
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 380,
+    "question": "What is the most effective approach to balance the need for mineral resources and the impact of mineral extraction on climate change?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=controversial)."
+  },
+  {
+    "id": 3199,
+    "question": "What types of music did hip hop emerge from?",
+    "answers": [
+      "funk, disco and soul"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 361,
+    "question": "When will digital citizenship help obtain visas for travel?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=counterfactual)."
+  },
+  {
+    "id": 3733,
+    "question": "What car manufacturer was the first to design a car using a wind tunnel, the first to sell a car with a monocoque chassis, the first to offer a 5 speed gearbox as an option and the first to sell a car fitted with a V6 engine?",
+    "answers": [
+      "lancia autobus",
+      "lancia automobiles",
+      "lancia bus",
+      "lancia automobiles s p",
+      "lancia",
+      "lancia in formula one",
+      "lancia corse"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 926,
+    "question": "What is the best thermal material for chemical engineering?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=controversial)."
+  },
+  {
+    "id": 2168,
+    "question": "What concept does the government currently support for education?",
+    "answers": [
+      "specialisation"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 731,
+    "question": "Can anyone who is smart become a digital marketing SEO?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=false assumption)."
+  },
+  {
+    "id": 2219,
+    "question": "What website, in addition to Ashley Madison, was Avid Media instructed to take offline?",
+    "answers": [
+      "Established Men"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 1968,
+    "question": "Does visualization always yield positive growth outcomes?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=controversial)."
+  },
+  {
+    "id": 2909,
+    "question": "What type of motor is used?",
+    "answers": [
+      "high-speed drive motor"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 1777,
+    "question": "Do you jump into another person body while dying?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=ambiguous)."
+  },
+  {
+    "id": 3813,
+    "question": "Which boxer won the match on September 23rd 2017, and who represented New Zealand in the 2010 Commonwealth games?",
+    "answers": [
+      "Joseph Parker"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 557,
+    "question": "Who will win between Davis and Garcia on Saturday in boxing?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=future unknown)."
+  },
+  {
+    "id": 4032,
+    "question": "When was \"An Act for Liberty to Erect a Collegiate School\" approved?",
+    "answers": [
+      "October 9, 1701"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 1596,
+    "question": "How can logistics companies improve their processes?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=ambiguous)."
+  },
+  {
+    "id": 2327,
+    "question": "What ethic group grew in the 20th century?",
+    "answers": [
+      "Asian"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 3,
+    "question": "Is it possible to chat with AI while playing game?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=false assumption)."
+  },
+  {
+    "id": 2447,
+    "question": "What type of birds lay white or pale eggs?",
+    "answers": [
+      "Hole and burrow nesting species"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 404,
+    "question": "Who will be the first person to photograph dark matter?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=future unknown)."
+  },
+  {
+    "id": 2950,
+    "question": "In what country did Suresh Babu win his first of two successive medals in The Asian Games?",
+    "answers": [
+      "Iran"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 623,
+    "question": "Why should I care about customers?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=ambiguous)."
+  },
+  {
+    "id": 2074,
+    "question": "What is the volumte of trucks handled at the Otay Mesa crossing?",
+    "answers": [
+      "the third-highest volume of trucks and dollar value of trade among all United States-Mexico land crossings."
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 1324,
+    "question": "How far can you drive a boat on land?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=false assumption)."
+  },
+  {
+    "id": 3495,
+    "question": "Using what to determine the seriousness of a breach can prevent a party from prematurely suspending its obligations due to another party's alleged material breach?",
+    "answers": [
+      "a tribunal or other independent arbiter"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 1544,
+    "question": "How will advancements in technology impact the role of editing in film and television in the next 20 years?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=future unknown)."
+  },
+  {
+    "id": 3333,
+    "question": "What did the Eritrea administration open to produce products such as buttons and construction materials?",
+    "answers": [
+      "a number of new factories"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 1316,
+    "question": "Can social media truly determine job performance?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=controversial)."
+  },
+  {
+    "id": 3529,
+    "question": "What is the Windsors which stars the House of Windsor?",
+    "answers": [
+      "British soap opera"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 1525,
+    "question": "What if character designers focused on creating characters based on cultural stereotypes, would this perpetuate harmful stereotypes and cultural appropriation?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=controversial)."
+  },
+  {
+    "id": 3550,
+    "question": "Which 1998 film tells a fictionalised account of the Battle of Mount Austen, part of the Guadalcanal Campaign in the Second World War?",
+    "answers": [
+      "thin red line",
+      "thin red line film",
+      "ttrl",
+      "thin red line disambiguation"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 193,
+    "question": "Will energy generation ever get to the level that it costs less than 1 cent per 100 kWh?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=future unknown)."
+  },
+  {
+    "id": 4007,
+    "question": "Who was kidnapped from the Colby's by a UFO and later turned up in Dynasty",
+    "answers": [
+      "fallon disambiguation",
+      "fallon"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 729,
+    "question": "Will scientists ever be able to create systems that recommend podcasts to a user with 100% success rate?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=unsolved problem)."
+  },
+  {
+    "id": 2246,
+    "question": "What was the first name of Marconi, Italian inventor known for his pioneering work on long-distance radio transmission?",
+    "answers": [
+      "guglielmo"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  },
+  {
+    "id": 645,
+    "question": "Do visual effects in social media define reality?",
+    "answers": [],
+    "answerable": false,
+    "question_type": "unanswerable",
+    "reason": "Converted from label=1 (UAQ, qtype=controversial)."
+  },
+  {
+    "id": 4078,
+    "question": "An apple seed contains which poisonous substance?",
+    "answers": [
+      "cyadine",
+      "cyano",
+      "chemical test for cyanide",
+      "cyanide anion",
+      "cyanide",
+      "cyanide group",
+      "cyanides",
+      "cn",
+      "cyanogenesis",
+      "inorganic cyanides",
+      "cyanide ion"
+    ],
+    "answerable": true,
+    "question_type": "default"
+  }
+]

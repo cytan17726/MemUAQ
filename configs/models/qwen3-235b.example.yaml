@@ -1,0 +1,12 @@
+schema_version: 1
+role: agent
+provider: openai_compatible
+model: Qwen3-235B-A22B-Instruct-2507
+base_url: https://YOUR_QWEN_PLATFORM/v1
+api_key: YOUR_QWEN_PLATFORM_KEY
+temperature: 0
+max_tokens: 4096
+timeout_seconds: 120
+max_retries: 5
+concurrency: 4
+

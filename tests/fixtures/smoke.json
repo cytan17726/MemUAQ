@@ -1,0 +1,17 @@
+[
+  {
+    "id": "uaq-1",
+    "question": "What is the capital of the fictional country Neverlandia?",
+    "answer": [],
+    "answerable": false,
+    "question_type": "false_presuppositions"
+  },
+  {
+    "id": "abq-1",
+    "question": "What is the capital of France?",
+    "answer": ["Paris"],
+    "answerable": true,
+    "question_type": "default"
+  }
+]
+

@@ -1,0 +1,7 @@
+schema_version: 1
+name: uaqfact
+train_path: ../../data/uaqfact_train.json
+test_path: ../../data/uaqfact_test.json
+path: ../../data/uaqfact_test.json
+format: json
+
